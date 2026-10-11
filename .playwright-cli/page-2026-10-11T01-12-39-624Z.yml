@@ -1,0 +1,45 @@
+- generic [ref=e2]:
+  - link "Apple.com" [ref=e4] [cursor=pointer]:
+    - /url: http://www.apple.com
+  - iframe [ref=e10]:
+    - generic [ref=f1e1]:
+      - main [ref=f1e2]:
+        - generic [ref=f1e8]:
+          - img "App Store Connect Logo" [ref=f1e11]
+          - generic [ref=f1e14]:
+            - heading "App Store Connect" [level=1] [ref=f1e16]
+            - group "App Store Connect" [ref=f1e19]:
+              - generic [ref=f1e20]:
+                - generic [ref=f1e21]:
+                  - generic [ref=f1e24]:
+                    - textbox "メールまたは電話番号" [invalid] [ref=f1e25]
+                    - generic [aria-hidden]: メールまたは電話番号
+                  - textbox [invalid] [ref=f1e26]
+                  - generic [aria-hidden]: パスワー⁠ド
+                  - generic [aria-hidden] [ref=f1e27]: 本人確認を完了できませんでした。もう一度お試しください。
+                  - generic [ref=f1e31]:
+                    - text: 
+                    - generic [ref=f1e32]: 本人確認を完了できませんでした。もう一度お試しください。
+                  - paragraph [ref=f1e37]:
+                    - text: 「Appleでサインイン」を設定する際、Apple Accountおよびデバイスの使用パターンに関する情報は、詐欺行為の防止のためにAppleによって使用される場合があります。
+                    - link "個人データの管理方法について確認… 新規ウィンドウで開きます。" [ref=f1e38] [cursor=pointer]:
+                      - /url: https://www.apple.com/jp/legal/privacy/data/ja/apple-id/
+                      - text: 個人データの管理方法について確認…
+                      - generic [ref=f1e39]: 新規ウィンドウで開きます。
+                - generic [ref=f1e40]:
+                  - generic [ref=f1e42]:
+                    - button "続ける" [disabled]
+                  - generic [ref=f1e43]:
+                    - button "iPhoneでサインイン" [ref=f1e45] [cursor=pointer]
+                    - paragraph [ref=f1e49]: iOS 17以降を搭載したデバイスが必要です。
+      - status [ref=f1e50]
+  - contentinfo [ref=e11]:
+    - navigation "footer" [ref=e12]:
+      - generic [ref=e13]:
+        - text: Copyright ©
+        - generic [ref=e14]: "2026"
+        - text: Apple Inc. All rights reserved.
+      - link "利用規約" [ref=e15] [cursor=pointer]:
+        - /url: /olympus/v1/terms/ASC
+      - link "プライバシーポリシー" [ref=e16] [cursor=pointer]:
+        - /url: https://www.apple.com/legal/privacy/

@@ -1,0 +1,994 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e8]:
+      - search [ref=e12]:
+        - generic [ref=e13]:
+          - generic "検索" [ref=e14] [cursor=pointer]:
+            - button "検索" [ref=e15]
+          - searchbox "検索用語を入力する" [ref=e16]
+          - generic:
+            - button "Copilot と会話する" [ref=e18] [cursor=pointer]
+            - generic "Copilot を開く" [ref=e22] [cursor=pointer]:
+              - button "Copilot を開く" [ref=e23]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Copilot を開く"
+      - button "アプリ起動ツール" [ref=e26] [cursor=pointer]:
+        - button "アプリ起動ツール" [ref=e27]
+      - generic [ref=e28]:
+        - 'link "西東京市: 晴れ, 23 °C" [ref=e31] [cursor=pointer]':
+          - /url: https://www.msn.com/ja-jp/weather/forecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+          - generic "東京都, 西東京市 ここをクリックして詳しく表示" [ref=e32]: 西東京市
+          - img "晴れ" [ref=e34]
+          - generic "28°C/17°C ここをクリックして詳しく表示" [ref=e36]:
+            - generic [ref=e37]: ‎28‎
+            - generic [ref=e38]: ‎°C‎
+            - generic [ref=e40]: /
+            - generic [ref=e41]: ‎17‎
+            - generic [ref=e42]: ‎°C‎
+        - generic "ページ設定" [ref=e47] [cursor=pointer]:
+          - button "ページ設定" [ref=e48]
+    - status [ref=e52]:
+      - generic [ref=e53]:
+        - generic "GMO INSIGHT Inc." [ref=e54]:
+          - link "GMO INSIGHT Inc." [ref=e60] [cursor=pointer]:
+            - /url: https://github.com/JWordServiceTeam/
+          - button "オプションをさらに表示" [ref=e65] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e66]
+        - generic "Google ドライブ" [ref=e67]:
+          - link "Google ドライブ" [ref=e73] [cursor=pointer]:
+            - /url: https://drive.google.com/
+          - button "オプションをさらに表示" [ref=e78] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e79]
+        - generic "コントロールパネル" [ref=e80]:
+          - link "コントロールパネル" [ref=e86] [cursor=pointer]:
+            - /url: https://test-cp10.win-rd.jp/login
+          - button "オプションをさらに表示" [ref=e91] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e92]
+        - generic "ダッシュボード" [ref=e93]:
+          - link "ダッシュボード" [ref=e99] [cursor=pointer]:
+            - /url: https://play.google.com/console/u/0/developers/7180825341642933039/app/4973229546395440857/app-dashboard?timespan=thirtyDays
+          - button "オプションをさらに表示" [ref=e104] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e105]
+        - generic "受信トレイ (22,681)" [ref=e106]:
+          - link "受信トレイ (22,681)" [ref=e112] [cursor=pointer]:
+            - /url: http://gmail.com/
+          - button "オプションをさらに表示" [ref=e117] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e118]
+        - generic "ポリシーの詳細 – Monitoring – plugin – Google Cloud コンソール" [ref=e119]:
+          - link "ポリシーの詳細 – Monitoring – plugin – Google Cloud コンソール" [ref=e125] [cursor=pointer]:
+            - /url: https://console.cloud.google.com/monitoring/alerting/policies/10970951895169552709?project=plugin-413601
+          - button "オプションをさらに表示" [ref=e130] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e131]
+        - generic "Codemagic" [ref=e132]:
+          - link "Codemagic" [ref=e138] [cursor=pointer]:
+            - /url: http://codemagic.io/
+          - button "オプションをさらに表示" [ref=e143] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e144]
+        - generic "Rakuten" [ref=e145]:
+          - link "Rakuten" [ref=e151] [cursor=pointer]:
+            - /url: https://www.bing.com/alink/link?url=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F24da98ad.f18922c6.24da98ae.d194b6be%2F%3Fpc%3Dhttps%253A%252f%252fwww.rakuten.co.jp%26link_type%3Dhybrid_url%26ut%3DeyJwYWdlIjoidXJsIiwidHlwZSI6Imh5YnJpZF91cmwiLCJjb2wiOjF9&source=msn-ntp&h=CAeraghQOzUUe2SzLM84XkvhLn4nhCVYKhnCGzPfHeo%3D&aff=p&p=mkt%3Aja-jp%3Bf%3AIAIxxed6GvrEAW4Uy9B6IN0QXTWDCDB5Qxn7%2FZix3ik%3D%3Btssls%3Awpod
+          - button "オプションをさらに表示" [ref=e156] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e157]
+        - generic "Amazon" [ref=e158]:
+          - link "Amazon" [ref=e164] [cursor=pointer]:
+            - /url: https://www.bing.com/alink/link?url=https%3A%2F%2Fwww.amazon.co.jp%2Fref%3Das_li_ss_tl%3Fie%3DUTF8%26linkCode%3Dll2%26tag%3Djajp-edge-ntp-topsites-22&source=msn-ntp&h=t03Yae%2BignePLLr%2FjHuwVj7EpSxqPdx3AzqCQXvj5Mo%3D&aff=p&p=mkt%3Aja-jp%3Bf%3AIAIxxed6GvrEAW4Uy9B6IN0QXTWDCDB5Qxn7%2FZix3ik%3D%3Btssls%3Awpod
+          - button "オプションをさらに表示" [ref=e169] [cursor=pointer]:
+            - button "オプションをさらに表示" [ref=e170]
+        - link "サイトの追加" [ref=e178] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e179]: ショートカットの追加
+  - generic [ref=e188]:
+    - button "背景の編集" [ref=e189] [cursor=pointer]
+    - button "背景の表示" [ref=e194] [cursor=pointer]
+    - separator [ref=e199]
+    - button "ページの更新" [ref=e200] [cursor=pointer]
+  - generic [ref=e206]:
+    - generic [ref=e211]:
+      - navigation [ref=e213]:
+        - link "MSN" [ref=e214] [cursor=pointer]:
+          - /url: https://www.msn.com/ja-jp
+        - generic [ref=e216]:
+          - list [ref=e217]:
+            - listitem [ref=e218]:
+              - link "トップ" [ref=e219] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/feed
+            - listitem [ref=e220]:
+              - link "職場" [ref=e221] [cursor=pointer]:
+                - /url: ""
+          - list [ref=e222]:
+            - listitem [ref=e223]:
+              - link "マンガ" [ref=e224] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/entertainment/manga
+            - listitem [ref=e225]:
+              - link "ニュース" [ref=e226] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/channel/topic/ニュース/tp-Y_bd49806e-3693-4cfc-8936-62e1aa856dfb
+            - listitem [ref=e227]:
+              - link "スポーツ" [ref=e228] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/sports
+            - listitem [ref=e229]:
+              - link "カジュアル ゲーム" [ref=e230] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/play?cgfrom=cg_ntp_pivot
+            - listitem [ref=e231]:
+              - link "マネー" [ref=e232] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/money
+            - listitem [ref=e233]:
+              - link "天気" [ref=e234] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/weather
+            - listitem [ref=e235]:
+              - link "ビデオ" [ref=e236] [cursor=pointer]:
+                - /url: https://www.msn.com/ja-jp/video
+            - listitem [ref=e237]:
+              - link "ショッピング" [ref=e238] [cursor=pointer]:
+                - /url: https://www.bing.com/shop?entrypoint=msn&adunitId=378983&propertyId=316966&FORM=NVBSHP
+      - generic [ref=e239]:
+        - generic "フィード設定" [ref=e240] [cursor=pointer]:
+          - button "フィード設定" [ref=e241]:
+            - generic: フィードのレイアウト
+        - generic "フィードの個人用設定\"" [ref=e242] [cursor=pointer]:
+          - button "フィードの個人用設定\"" [ref=e243]:
+            - generic: 個人用設定
+    - generic [ref=e244]:
+      - alert [ref=e247]:
+        - generic [ref=e250]:
+          - link "ニュース速報 トランプ大統領がゼレンスキー大統領を痛烈批判「ウクライナに新しい大統領を」「ロシア製油所を攻撃するな」" [ref=e252] [cursor=pointer]:
+            - /url: https://www.msn.com/ja-jp/news/other/トランプ大統領がゼレンスキー大統領を痛烈批判-ウクライナに新しい大統領を-ロシア製油所を攻撃するな/ar-AA2dYP2H
+            - generic [ref=e253]: ニュース速報
+            - generic [ref=e256]: トランプ大統領がゼレンスキー大統領を痛烈批判「ウクライナに新しい大統領を」「ロシア製油所を攻撃するな」
+          - generic "キャンセル" [ref=e257] [cursor=pointer]:
+            - button "キャンセル" [ref=e258]
+      - main [ref=e260]:
+        - generic [ref=e263]:
+          - generic [ref=e264]:
+            - generic [ref=e267]:
+              - tablist [ref=e269]:
+                - tab [selected] [ref=e270] [cursor=pointer]
+                - tab [ref=e272] [cursor=pointer]
+                - tab [ref=e274] [cursor=pointer]
+                - tab [ref=e276] [cursor=pointer]
+                - tab [ref=e278] [cursor=pointer]
+              - button [ref=e282]
+              - button [ref=e285]
+              - generic [ref=e288]:
+                - generic [ref=e289]:
+                  - link [ref=e290] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E6%96%89%E8%97%A4%E7%A5%A5%E5%A4%AA-%E6%85%B6%E5%A4%AA%E5%85%84%E5%BC%9F-%E8%8A%B8%E8%83%BD%E3%81%AE%E4%BB%95%E4%BA%8B%E6%B8%9B%E5%B0%91%E3%81%A7%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB%E3%81%A8%E5%86%85%E8%A3%85%E8%81%B7%E4%BA%BA%E3%81%AB%E8%BB%A2%E8%BA%AB-%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E8%AA%BF%E5%AD%90%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%E3%81%9F%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%86/ar-AA2dWCVx
+                    - img "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」" [ref=e291]
+                  - link "スポーツ報知 スポーツ報知 斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」" [ref=e292] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E6%96%89%E8%97%A4%E7%A5%A5%E5%A4%AA-%E6%85%B6%E5%A4%AA%E5%85%84%E5%BC%9F-%E8%8A%B8%E8%83%BD%E3%81%AE%E4%BB%95%E4%BA%8B%E6%B8%9B%E5%B0%91%E3%81%A7%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB%E3%81%A8%E5%86%85%E8%A3%85%E8%81%B7%E4%BA%BA%E3%81%AB%E8%BB%A2%E8%BA%AB-%E3%82%84%E3%81%A3%E3%81%B1%E3%82%8A%E8%AA%BF%E5%AD%90%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%E3%81%9F%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%8B%E3%81%A8%E6%80%9D%E3%81%86/ar-AA2dWCVx
+                    - generic [ref=e293]:
+                      - img "スポーツ報知" [ref=e294]
+                      - generic [ref=e295]: スポーツ報知
+                    - generic [ref=e296]: 斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」
+                - generic [ref=e298]:
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 イチオシ" [ref=e299] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/technology/software/windows11%E3%82%92%E5%BF%AB%E9%81%A9-%E5%AE%89%E5%85%A8%E3%81%AB%E4%BD%BF%E3%81%86%E3%81%9F%E3%82%81%E3%81%AB-%E3%82%AA%E3%83%B3%E3%81%AB%E3%81%99%E3%81%B9%E3%81%8D%E8%A8%AD%E5%AE%9A-%E3%82%AA%E3%83%95%E3%81%AB%E3%81%99%E3%81%B9%E3%81%8D%E8%A8%AD%E5%AE%9A%E3%82%92%E3%83%91%E3%82%BD%E3%82%B3%E3%83%B3%E5%8D%9A%E5%A3%AB%E3%81%8C%E8%A7%A3%E8%AA%AC/ar-AA27VIYj
+                    - generic: 「Windows11を快適・安全に使うために」オンにすべき設定・オフにすべき設定をパソコン博士が解説
+                    - img "イチオシ" [ref=e300]
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 月刊自家用車WEB" [ref=e301] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/autos/%E5%85%A8%E8%88%AC/%E3%81%9D%E3%81%AE%E6%89%8B%E3%81%8C%E3%81%82%E3%81%A3%E3%81%9F%E3%81%8B-%E6%B0%B4%E6%BB%B4%E3%81%A7%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84%E5%8A%A9%E6%89%8B%E5%B8%AD%E5%81%B4%E3%83%89%E3%82%A2%E3%83%9F%E3%83%A9%E3%83%BC-%E9%81%8B%E8%BB%A2%E5%B8%AD%E3%81%8B%E3%82%89%E4%B8%80%E6%B0%97%E3%81%AB%E3%82%AF%E3%83%AA%E3%82%A2%E3%81%AB%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95-%E4%BC%B8%E7%B8%AE%E5%BC%8F%E3%83%AF%E3%82%A4%E3%83%91%E3%83%BC%E3%82%92%E5%AE%9F%E9%9A%9B%E3%81%AB%E8%B3%BC%E5%85%A5-%E9%9A%A0%E3%82%8C%E3%81%9F%E5%90%8D%E4%BD%9C%E3%82%AB%E3%83%BC%E3%82%B0%E3%83%83%E3%82%BA%E3%81%A0%E3%81%A8%E7%A2%BA%E4%BF%A1%E3%81%97%E3%81%9F%E7%90%86%E7%94%B1/ar-AA2d8Roc
+                    - generic: 「その手があったか…」水滴で見えない助手席側ドアミラー。運転席から一気にクリアにする方法。伸縮式ワイパーを実際に購入! 隠れた名作カーグッズだと確信した理由
+                    - img "月刊自家用車WEB" [ref=e302]
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 THE GOLD ONLINE" [ref=e303] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/money/personalfinance/%E6%96%B0nisa-%E3%82%84%E3%82%81%E3%81%A6%E3%81%8A%E3%81%91-3%E5%84%84%E5%86%86%E3%81%AE%E8%B3%87%E7%94%A3%E3%82%92%E7%AF%89%E3%81%84%E3%81%9F88%E6%AD%B3%E7%A5%96%E7%88%B6%E3%81%8C%E4%B8%80%E5%96%9D-%E6%89%8B%E5%8F%96%E3%82%8A26%E4%B8%87%E5%86%86%E3%81%8B%E3%82%89%E6%9C%8810%E4%B8%87%E5%86%86%E3%82%92%E6%8A%95%E8%B3%87%E3%81%AB%E5%9B%9E%E3%81%9926%E6%AD%B3%E5%AD%AB%E3%81%AB-%E5%BE%85%E3%81%A3%E3%81%9F%E3%82%92%E3%81%8B%E3%81%91%E3%81%9F%E3%83%AF%E3%82%B1-cfp%E3%81%8C%E8%A7%A3%E8%AA%AC/ar-AA2dYEOa
+                    - generic: 「新NISA? やめておけ」3億円の資産を築いた88歳祖父が一喝…手取り26万円から月10万円を投資に回す26歳孫に〈待ったをかけたワケ〉【CFPが解説】
+                    - img "THE GOLD ONLINE" [ref=e304]
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 テレ朝NEWS" [ref=e305] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E7%9B%A3%E7%A6%81%E3%81%95%E3%82%8C%E5%88%BA%E3%81%95%E3%82%8C%E3%81%9F-%E5%A6%BB%E3%81%ABsns%E3%81%A7%E5%8A%A9%E3%81%91%E6%B1%82%E3%82%81%E3%82%8B-%E4%B8%8D%E5%80%AB%E7%9B%B8%E6%89%8B%E3%81%AE33%E6%AD%B3%E3%81%AE%E5%A5%B3%E9%80%AE%E6%8D%95-%E7%A6%8F%E5%B2%A1%E5%B8%82/vi-AA2dYAkY
+                    - generic: 「監禁され刺された」妻にSNSで助け求める 不倫相手の33歳の女逮捕 福岡市
+                    - img "テレ朝NEWS" [ref=e306]
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 SmartFLASH" [ref=e307] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/%E3%82%B3%E3%83%A1%E6%9A%B4%E8%90%BD-%E3%82%B3%E3%82%B7%E3%83%92%E3%82%AB%E3%83%AA%E8%B2%B7%E5%8F%96%E4%BE%A1%E6%A0%BC%E3%81%8C62-%E3%82%82%E4%B8%8B%E8%90%BD-%E3%81%93%E3%82%8C%E3%81%98%E3%82%83%E8%B5%A4%E5%AD%97%E3%82%82%E3%81%84%E3%81%84%E3%81%A8%E3%81%93-%E8%BE%B2%E5%AE%B6%E3%81%8C%E6%82%B2%E9%B3%B4-%E6%96%B0%E7%B1%B3%E3%81%8C%E5%8F%A4%E7%B1%B3%E3%82%88%E3%82%8A%E5%AE%89%E3%81%8F%E3%81%AA%E3%82%8B%E4%B8%8D%E6%80%9D%E8%AD%B0%E3%81%AA%E7%90%86%E7%94%B1%E3%81%A8%E3%81%AF/ar-AA2dVgiz
+                    - generic: 【コメ暴落】コシヒカリ買取価格が62％も下落「これじゃ赤字もいいとこ」農家が悲鳴…新米が古米より安くなる不思議な理由とは
+                    - img "SmartFLASH" [ref=e308]
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 読売新聞" [ref=e309] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E5%A4%A7%E9%98%AA%E5%90%84%E5%9C%B0%E3%81%AE-%E3%81%A0%E3%82%93%E3%81%98%E3%82%8A%E7%A5%AD%E3%82%8A-%E3%81%A7%E6%AD%BB%E4%BA%A1%E4%BA%8B%E6%95%85%E7%9B%B8%E6%AC%A1%E3%81%90-%E7%94%B7%E6%80%A7%EF%BC%92%E4%BA%BA%E6%AD%BB%E4%BA%A1-%EF%BC%91%EF%BC%96%E4%BA%BA%E9%87%8D%E8%BB%BD%E5%82%B7-%E4%BA%A4%E5%B7%AE%E7%82%B9%E3%82%92%E6%9B%B2%E3%81%8C%E3%82%8B%E9%9A%9B%E3%81%AB%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E5%B4%A9%E3%81%99/ar-AA2dX4eE
+                    - generic: 大阪各地の「だんじり祭り」で死亡事故相次ぐ、男性２人死亡・１６人重軽傷…交差点を曲がる際にバランス崩す
+                    - img "読売新聞" [ref=e310]
+                  - link "斉藤祥太、慶太兄弟、芸能の仕事減少で電気工事士と内装職人に転身「やっぱり調子に乗ってたんじゃないかと思う」 - 提供元 サンケイスポーツ" [ref=e311] [cursor=pointer]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E9%9C%9C%E9%99%8D%E3%82%8A%E6%98%8E%E6%98%9F%E3%81%9B%E3%81%84%E3%82%84-tbs-%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E6%84%9F%E8%AC%9D%E7%A5%AD-%E6%AC%A0%E5%B8%AD-%E4%BB%8A%E7%94%B0%E8%80%95%E5%8F%B8-%E4%BB%A3%E5%BD%B9%E3%81%AE%E4%BA%BA%E7%89%A9%E3%81%AB-%E3%81%8A%E3%81%8B%E3%81%97%E3%81%84/ar-AA2dWTiI
+                    - generic: 霜降り明星せいや、TBS「オールスター感謝祭」欠席 今田耕司、代役の人物に「おかしい!」
+                    - img "サンケイスポーツ" [ref=e312]
+                  - link [ref=e313] [cursor=pointer]:
+                    - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=0ecd60e8-24d2-4761-bafc-81a205342434&bdc=ch&bidId=1&bidderId=4&cmExpId=LV4&impId=4&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8V_8v58ispgBKAy9DNhDUgzVUCUzvGoNT7i9XCiQK5f7z8I7z9F4L6cEgfmJN8a3yh_Ez7xsjIu5YK7alTZ-Iz58GcSN0U2AKUndMzTaSvrt7UhNfjg2ERU_z6AMHrHCo6sQmiz6KoKFXvKk4kSB4q7NQyOD_a4pRycLdhaUTU5vFCEnM77YAnglOmcqW2RAl_X28h7ZBMAQqZA-Lw7GQ2knoyec%26u%3DaHR0cHMlM2ElMmYlMmZzZWMtY29tcGFyaXNvbi5uZXQlMmZvc3VzdW1lMy5waHAlM2ZJRCUzZE1TTl9TZWNfbmV3Zl8wMDEtMDAxJTI2bXNjbGtpZCUzZDA0OTYyZDcxYWY0ZjEzZThiOWVjNDdiYjQ2ZGNlY2ZmJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJWUzJTgwJTkwJWU2JWE0JTljJWU3JWI0JWEyJTI1MkZGWCVlMyU4MCU5MTIwMjMlZTUlYjklYjQlZTQlYmQlOWMlZTYlODglOTAlZTclODklODgoU2VjX25ld2YpJTI2dXRtX3Rlcm0lM2RmeCUyNTIwJWU1JThmJWEzJWU1JWJhJWE3JTI1MjAlZTklOTYlOGIlZTglYTglYWQlMjZ1dG1fY29udGVudCUzZCVlMyU4MCU5MFNlY19uZXdmXzAwMSVlMyU4MCU5MWFsbF9rZXl3b3Jkcw%26rlid%3D04962d71af4f13e8b9ec47bb46dcecff&rtype=targetURL&tagId=edgechrntp-infopane-tab-1&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+                    - generic: 無料で使えるFX自動売買ツール - 少額100円からFX取引開始OK - FX口座開設ランキング2026年版
+                    - link "スポンサー" [ref=e317]:
+                      - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=0ecd60e8-24d2-4761-bafc-81a205342434&bdc=ch&bidId=1&bidderId=4&cmExpId=LV4&impId=4&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8V_8v58ispgBKAy9DNhDUgzVUCUzvGoNT7i9XCiQK5f7z8I7z9F4L6cEgfmJN8a3yh_Ez7xsjIu5YK7alTZ-Iz58GcSN0U2AKUndMzTaSvrt7UhNfjg2ERU_z6AMHrHCo6sQmiz6KoKFXvKk4kSB4q7NQyOD_a4pRycLdhaUTU5vFCEnM77YAnglOmcqW2RAl_X28h7ZBMAQqZA-Lw7GQ2knoyec%26u%3DaHR0cHMlM2ElMmYlMmZzZWMtY29tcGFyaXNvbi5uZXQlMmZvc3VzdW1lMy5waHAlM2ZJRCUzZE1TTl9TZWNfbmV3Zl8wMDEtMDAxJTI2bXNjbGtpZCUzZDA0OTYyZDcxYWY0ZjEzZThiOWVjNDdiYjQ2ZGNlY2ZmJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJWUzJTgwJTkwJWU2JWE0JTljJWU3JWI0JWEyJTI1MkZGWCVlMyU4MCU5MTIwMjMlZTUlYjklYjQlZTQlYmQlOWMlZTYlODglOTAlZTclODklODgoU2VjX25ld2YpJTI2dXRtX3Rlcm0lM2RmeCUyNTIwJWU1JThmJWEzJWU1JWJhJWE3JTI1MjAlZTklOTYlOGIlZTglYTglYWQlMjZ1dG1fY29udGVudCUzZCVlMyU4MCU5MFNlY19uZXdmXzAwMSVlMyU4MCU5MWFsbF9rZXl3b3Jkcw%26rlid%3D04962d71af4f13e8b9ec47bb46dcecff&rtype=targetURL&tagId=edgechrntp-infopane-tab-1&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+            - article "「おわび、ちょっと長くない?」同期の忠告を聞かずに送信した私。取引先3社と上司に届いてしまったメール" [ref=e318] [cursor=pointer]:
+              - generic [ref=e320]:
+                - generic [ref=e322]:
+                  - generic [ref=e323]:
+                    - generic [ref=e324]:
+                      - generic [ref=e325]: tend
+                      - generic [aria-hidden] [ref=e328]: ·
+                      - generic [ref=e329]: 16 時間
+                    - link "「おわび、ちょっと長くない?」同期の忠告を聞かずに送信した私。取引先3社と上司に届いてしまったメール, tend" [ref=e330]:
+                      - /url: https://www.msn.com/ja-jp/news/other/%E3%81%8A%E3%82%8F%E3%81%B3-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E9%95%B7%E3%81%8F%E3%81%AA%E3%81%84-%E5%90%8C%E6%9C%9F%E3%81%AE%E5%BF%A0%E5%91%8A%E3%82%92%E8%81%9E%E3%81%8B%E3%81%9A%E3%81%AB%E9%80%81%E4%BF%A1%E3%81%97%E3%81%9F%E7%A7%81-%E5%8F%96%E5%BC%95%E5%85%883%E7%A4%BE%E3%81%A8%E4%B8%8A%E5%8F%B8%E3%81%AB%E5%B1%8A%E3%81%84%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%83%A1%E3%83%BC%E3%83%AB/ar-AA2dWQrA
+                      - text: 「おわび、ちょっと長くない?」同期の忠告を聞かずに送信した私。取引先3社と上司に届いてしまったメール
+                  - generic "「おわび、ちょっと長くない?」同期の忠告を聞かずに送信した私。取引先3社と上司に届いてしまったメール" [ref=e333]:
+                    - generic [ref=e335]:
+                      - generic [ref=e336]:
+                        - button "1 いいね" [ref=e337]:
+                          - generic [ref=e341]: "1"
+                        - button "嫌い" [ref=e342]
+                      - link "あなたの意見は?" [ref=e347]:
+                        - /url: https://www.msn.com/ja-jp/news/other/%E3%81%8A%E3%82%8F%E3%81%B3-%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%E9%95%B7%E3%81%8F%E3%81%AA%E3%81%84-%E5%90%8C%E6%9C%9F%E3%81%AE%E5%BF%A0%E5%91%8A%E3%82%92%E8%81%9E%E3%81%8B%E3%81%9A%E3%81%AB%E9%80%81%E4%BF%A1%E3%81%97%E3%81%9F%E7%A7%81-%E5%8F%96%E5%BC%95%E5%85%883%E7%A4%BE%E3%81%A8%E4%B8%8A%E5%8F%B8%E3%81%AB%E5%B1%8A%E3%81%84%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F%E3%83%A1%E3%83%BC%E3%83%AB/ar-AA2dWQrA#comments
+                        - button "あなたの意見は?" [ref=e348]
+                - generic [ref=e351]:
+                  - button "このストーリーを非表示にする" [ref=e352]
+                  - button "さらに表示" [ref=e354]
+            - article "【現役大ヒットEA開発者が対応】MT4/MT5のEA・インジケーター作成代行・プログラミング" [ref=e356] [cursor=pointer]:
+              - generic [ref=e360]:
+                - generic [ref=e361]:
+                  - generic [ref=e362]: GogoJungle
+                  - link "【現役大ヒットEA開発者が対応】MT4/MT5のEA・インジケーター作成代行・プログラミング, GogoJungle" [ref=e365]:
+                    - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=0697daa7-3f5a-4a6b-bd4b-9847bceef254&bdc=ch&bidId=20&bidderId=4&cmExpId=LV4&impId=2&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8Jj2rN8sGQ_bYLkL39mA4FjVUCUx36DgO5tVm5Z00A0wlhN-7FoiWHcPAgeMA0njSpfboajDrG4zJWB6R36MmzXOD0zFfu1FrOgOTdSyPMMG7iqd1zaH3Vd_DBQs2ADene6xtWoKK6sjT6XoCDGIuOpK6lI5WphyBX_IjsnNrdU66MKkzDJ2mbxfsm9M4U_c3hnz1j6yi3ILthj4U99DEWptyESc%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZ29nb2p1bmdsZS5jby5qcCUyZnRvb2xzJTJmcm9vbXMlMmY3NzUyOSUzZnV0bV9zb3VyY2UlM2Rtc24lMjZ1dG1fbWVkaXVtJTNkZGlzcGxheSUyNnV0bV9jYW1wYWlnbiUzZG1zbl9keW5hbWljX2ZlZWQlMjZ1dG1fYWRncm91cCUzZHByb21vJTI2bXNjbGtpZCUzZDdhNmU4MTM3ZGYwZjFlYjVjMjI5ZWJmZDM2OWMzZDg2%26rlid%3D7a6e8137df0f1eb5c229ebfd369c3d86&rtype=targetURL&tagId=edgechrntp-river-1&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+                    - text: 【現役大ヒットEA開発者が対応】MT4/MT5のEA・インジケーター作成代行・プログラミング
+                - link "スポンサー" [ref=e367]:
+                  - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=0697daa7-3f5a-4a6b-bd4b-9847bceef254&bdc=ch&bidId=20&bidderId=4&cmExpId=LV4&impId=2&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8Jj2rN8sGQ_bYLkL39mA4FjVUCUx36DgO5tVm5Z00A0wlhN-7FoiWHcPAgeMA0njSpfboajDrG4zJWB6R36MmzXOD0zFfu1FrOgOTdSyPMMG7iqd1zaH3Vd_DBQs2ADene6xtWoKK6sjT6XoCDGIuOpK6lI5WphyBX_IjsnNrdU66MKkzDJ2mbxfsm9M4U_c3hnz1j6yi3ILthj4U99DEWptyESc%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZ29nb2p1bmdsZS5jby5qcCUyZnRvb2xzJTJmcm9vbXMlMmY3NzUyOSUzZnV0bV9zb3VyY2UlM2Rtc24lMjZ1dG1fbWVkaXVtJTNkZGlzcGxheSUyNnV0bV9jYW1wYWlnbiUzZG1zbl9keW5hbWljX2ZlZWQlMjZ1dG1fYWRncm91cCUzZHByb21vJTI2bXNjbGtpZCUzZDdhNmU4MTM3ZGYwZjFlYjVjMjI5ZWJmZDM2OWMzZDg2%26rlid%3D7a6e8137df0f1eb5c229ebfd369c3d86&rtype=targetURL&tagId=edgechrntp-river-1&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+            - article [ref=e368] [cursor=pointer]:
+              - generic [ref=e374]:
+                - generic [ref=e376]:
+                  - link [ref=e378]:
+                    - /url: https://www.msn.com/ja-jp/weather/forecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2
+                    - heading "西東京市" [level=2] [ref=e379]
+                  - button "自分の場所" [ref=e380]
+                  - button "その他のオプション" [ref=e382]
+                - generic [ref=e387]:
+                  - generic [ref=e388]:
+                    - generic [ref=e390]:
+                      - link [ref=e391]:
+                        - /url: https://www.msn.com/ja-jp/weather/forecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2
+                        - img "晴れ" [ref=e392]
+                      - link "23°C" [ref=e393]:
+                        - /url: https://www.msn.com/ja-jp/weather/forecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2
+                        - generic [ref=e394]: ‎23‎
+                        - generic [ref=e395]: ‎°C‎
+                    - generic [ref=e398]:
+                      - link "12:00 以降、紫外線が強くなります" [ref=e400]:
+                        - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&fcsttab=uvindex
+                      - link "詳しい予報を見る" [ref=e402]:
+                        - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&fcsttab=uvindex
+                        - img "arrow" [ref=e403]
+                  - list [ref=e405]:
+                    - tab "1 時間予報" [selected] [ref=e406]
+                    - tab "週間" [ref=e408]
+                  - list [ref=e412]:
+                    - listitem [ref=e413]:
+                      - generic "天気予報 11:00 24° 0%" [ref=e414]:
+                        - link "天気予報 11:00 24° 0%" [ref=e415]:
+                          - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2&day=1&hour=1
+                          - generic:
+                            - generic:
+                              - generic "11:00"
+                              - generic:
+                                - img "晴れ"
+                              - generic:
+                                - generic "24°": ‎24°‎
+                                - generic "0%":
+                                  - img "precipitation"
+                                  - text: ‎0%‎
+                    - listitem [ref=e416]:
+                      - generic "天気予報 12:00 26° 0%" [ref=e417]:
+                        - link "天気予報 12:00 26° 0%" [ref=e418]:
+                          - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2&day=1&hour=2
+                          - generic:
+                            - generic:
+                              - generic "12:00"
+                              - generic:
+                                - img "晴れ"
+                              - generic:
+                                - generic "26°": ‎26°‎
+                                - generic "0%":
+                                  - img "precipitation"
+                                  - text: ‎0%‎
+                    - listitem [ref=e419]:
+                      - generic "天気予報 13:00 26° 0%" [ref=e420]:
+                        - link "天気予報 13:00 26° 0%" [ref=e421]:
+                          - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2&day=1&hour=3
+                          - generic:
+                            - generic:
+                              - generic "13:00"
+                              - generic:
+                                - img "晴れ"
+                              - generic:
+                                - generic "26°": ‎26°‎
+                                - generic "0%":
+                                  - img "precipitation"
+                                  - text: ‎0%‎
+                    - listitem [ref=e422]:
+                      - generic "天気予報 14:00 27° 0%" [ref=e423]:
+                        - link "天気予報 14:00 27° 0%" [ref=e424]:
+                          - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2&day=1&hour=4
+                          - generic:
+                            - generic:
+                              - generic "14:00"
+                              - generic:
+                                - img "晴れ"
+                              - generic:
+                                - generic "27°": ‎27°‎
+                                - generic "0%":
+                                  - img "precipitation"
+                                  - text: ‎0%‎
+                    - listitem [ref=e425]:
+                      - generic "天気予報 15:00 28° 0%" [ref=e426]:
+                        - link "天気予報 15:00 28° 0%" [ref=e427]:
+                          - /url: https://www.msn.com/ja-jp/weather/hourlyforecast/in-%E6%9D%B1%E4%BA%AC%E9%83%BD,%E8%A5%BF%E6%9D%B1%E4%BA%AC%E5%B8%82?loc=eyJsIjoi6KW%2F5p2x5Lqs5biCIiwiciI6IuadseS6rOmDvSIsImMiOiLml6XmnKwiLCJpIjoiSlAiLCJnIjoiamEtanAiLCJ4IjoxMzkuNTU2NTQ5MDcyMjY1NjIsInkiOjM1Ljc1Njc5MDE2MTEzMjgxfQ%3D%3D&weadegreetype=C&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58&content=TeaserUVIndexHour_wxnwtsuv2&day=1&hour=5
+                          - generic:
+                            - generic:
+                              - generic "15:00"
+                              - generic:
+                                - img "晴れ"
+                              - generic:
+                                - generic "28°": ‎28°‎
+                                - generic "0%":
+                                  - img "precipitation"
+                                  - text: ‎0%‎
+                - generic [ref=e429]:
+                  - tablist [ref=e432]:
+                    - tab "ページ 1" [selected] [ref=e433]
+                    - tab "ページ 2" [ref=e435]
+                  - button "詳しい予報を見る" [ref=e438]
+            - article [ref=e439] [cursor=pointer]:
+              - generic [ref=e444]:
+                - generic [ref=e446]:
+                  - link [ref=e449]:
+                    - /url: ""
+                    - heading "あなたへのおすすめ" [level=2] [ref=e450]
+                  - button "その他のオプション" [ref=e452]
+                - generic [ref=e455]:
+                  - button "クリックすると発行元 スポニチアネックス をフォローします" [ref=e457]:
+                    - generic [ref=e458]: スポニチアネックス
+                  - button "クリックすると発行元 日刊スポーツ をフォローします" [ref=e466]:
+                    - generic [ref=e467]: 日刊スポーツ
+                  - button "クリックすると発行元 くるまのニュース をフォローします" [ref=e475]:
+                    - generic [ref=e476]: くるまのニュース
+                  - button "クリックすると発行元 デイリースポーツ をフォローします" [ref=e484]:
+                    - generic [ref=e485]: デイリースポーツ
+                  - button "クリックすると発行元 読売新聞 をフォローします" [ref=e493]:
+                    - generic [ref=e494]: 読売新聞
+                - generic [ref=e502]:
+                  - tablist [ref=e505]:
+                    - tab "ページ 1" [selected] [ref=e506]
+                    - tab "ページ 2" [ref=e508]
+                    - tab "ページ 3" [ref=e510]
+                    - tab "ページ 4" [ref=e512]
+                    - tab "ページ 5" [ref=e514]
+                    - tab "ページ 6"
+                    - tab "ページ 7"
+                    - tab "ページ 8"
+                    - tab "ページ 9"
+                    - tab "ページ 10"
+                  - link "フィードのパーソナライズ設定" [ref=e517]:
+                    - /url: "#"
+            - article "【現役大ヒットEA開発者が対応】MT4⇔MT5（MQL4/MQL5）ソースコード完全コンバート代行" [ref=e518] [cursor=pointer]:
+              - generic [ref=e520]:
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - generic [ref=e524]: GogoJungle
+                    - link "【現役大ヒットEA開発者が対応】MT4⇔MT5（MQL4/MQL5）ソースコード完全コンバート代行, GogoJungle" [ref=e527]:
+                      - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=daf164ab-f48d-4044-908e-d04135310d52&bdc=ch&bidId=16&bidderId=4&cmExpId=LV4&impId=3&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8PD4CaH_Mh9nP3fxaNmwRwzVUCUwEnJ8Pnwfa9GYZl15t0c7NqnzdX2vpMCpd5Fpndhd5zZGkUTMaDJUE1aUa2LQQAG8D1oG0CbiBPco1u9PC4VW16lK9EI-W-LSnB9MeUH-VugCxBQw8GIJbJRD59jAfNhMpd76Upwh5NcPz_HSoZxSqjrrhCDTdE8flymcEmQV6J_MZCB4IH8UeOvYvMX5jWWw%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZ29nb2p1bmdsZS5jby5qcCUyZnRvb2xzJTJmcm9vbXMlMmY3NzUyOCUzZnV0bV9zb3VyY2UlM2Rtc24lMjZ1dG1fbWVkaXVtJTNkZGlzcGxheSUyNnV0bV9jYW1wYWlnbiUzZG1zbl9keW5hbWljX2ZlZWQlMjZ1dG1fYWRncm91cCUzZHByb21vJTI2bXNjbGtpZCUzZGFlNDI5YTBmZGFiMTEwMTAyYjc2ZjBjNTMzMjJjNDkx%26rlid%3Dae429a0fdab110102b76f0c53322c491&rtype=targetURL&tagId=edgechrntp-river-2&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+                      - text: 【現役大ヒットEA開発者が対応】MT4⇔MT5（MQL4/MQL5）ソースコード完全コンバート代行
+                  - link "スポンサー" [ref=e529]:
+                    - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=daf164ab-f48d-4044-908e-d04135310d52&bdc=ch&bidId=16&bidderId=4&cmExpId=LV4&impId=3&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8PD4CaH_Mh9nP3fxaNmwRwzVUCUwEnJ8Pnwfa9GYZl15t0c7NqnzdX2vpMCpd5Fpndhd5zZGkUTMaDJUE1aUa2LQQAG8D1oG0CbiBPco1u9PC4VW16lK9EI-W-LSnB9MeUH-VugCxBQw8GIJbJRD59jAfNhMpd76Upwh5NcPz_HSoZxSqjrrhCDTdE8flymcEmQV6J_MZCB4IH8UeOvYvMX5jWWw%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZ29nb2p1bmdsZS5jby5qcCUyZnRvb2xzJTJmcm9vbXMlMmY3NzUyOCUzZnV0bV9zb3VyY2UlM2Rtc24lMjZ1dG1fbWVkaXVtJTNkZGlzcGxheSUyNnV0bV9jYW1wYWlnbiUzZG1zbl9keW5hbWljX2ZlZWQlMjZ1dG1fYWRncm91cCUzZHByb21vJTI2bXNjbGtpZCUzZGFlNDI5YTBmZGFiMTEwMTAyYjc2ZjBjNTMzMjJjNDkx%26rlid%3Dae429a0fdab110102b76f0c53322c491&rtype=targetURL&tagId=edgechrntp-river-2&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+                - button "さらに表示" [ref=e531]
+            - article "橋下徹氏「これが事実ならファッション保守・口だけ番長政治の弊害」高市首相めぐる報道受け私見" [ref=e533] [cursor=pointer]:
+              - generic [ref=e535]:
+                - generic [ref=e537]:
+                  - generic [ref=e538]:
+                    - generic [ref=e539]:
+                      - generic [ref=e540]: ググットニュース
+                      - generic [aria-hidden] [ref=e543]: ·
+                      - generic [ref=e544]: 23 時間
+                    - link "橋下徹氏「これが事実ならファッション保守・口だけ番長政治の弊害」高市首相めぐる報道受け私見, ググットニュース" [ref=e545]:
+                      - /url: https://www.msn.com/ja-jp/news/other/%E6%A9%8B%E4%B8%8B%E5%BE%B9%E6%B0%8F-%E3%81%93%E3%82%8C%E3%81%8C%E4%BA%8B%E5%AE%9F%E3%81%AA%E3%82%89%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E4%BF%9D%E5%AE%88-%E5%8F%A3%E3%81%A0%E3%81%91%E7%95%AA%E9%95%B7%E6%94%BF%E6%B2%BB%E3%81%AE%E5%BC%8A%E5%AE%B3-%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E3%82%81%E3%81%90%E3%82%8B%E5%A0%B1%E9%81%93%E5%8F%97%E3%81%91%E7%A7%81%E8%A6%8B/ar-AA2dVeyT
+                      - text: 橋下徹氏「これが事実ならファッション保守・口だけ番長政治の弊害」高市首相めぐる報道受け私見
+                  - generic "橋下徹氏「これが事実ならファッション保守・口だけ番長政治の弊害」高市首相めぐる報道受け私見" [ref=e548]:
+                    - generic [ref=e550]:
+                      - generic [ref=e551]:
+                        - button "41 いいね!" [ref=e552]:
+                          - generic [ref=e556]: "41"
+                        - button "嫌い" [ref=e557]
+                      - link "コメントの表示 17 コメント" [ref=e562]:
+                        - /url: https://www.msn.com/ja-jp/news/other/%E6%A9%8B%E4%B8%8B%E5%BE%B9%E6%B0%8F-%E3%81%93%E3%82%8C%E3%81%8C%E4%BA%8B%E5%AE%9F%E3%81%AA%E3%82%89%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E4%BF%9D%E5%AE%88-%E5%8F%A3%E3%81%A0%E3%81%91%E7%95%AA%E9%95%B7%E6%94%BF%E6%B2%BB%E3%81%AE%E5%BC%8A%E5%AE%B3-%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E3%82%81%E3%81%90%E3%82%8B%E5%A0%B1%E9%81%93%E5%8F%97%E3%81%91%E7%A7%81%E8%A6%8B/ar-AA2dVeyT#comments
+                        - button "コメントの表示 17 コメント" [ref=e563]
+                        - generic [aria-hidden] [ref=e566]: "17"
+                - generic [ref=e567]:
+                  - button "このストーリーを非表示にする" [ref=e568]
+                  - button "さらに表示" [ref=e570]
+            - article "紺野ぶるま「一目ぼれしたんで結婚してほしい」夫とは深夜３時に渋谷の居酒屋でナンパされ…" [ref=e572] [cursor=pointer]:
+              - generic [ref=e576]:
+                - generic [ref=e577]:
+                  - generic [ref=e578]:
+                    - generic [ref=e579]: 日刊スポーツ
+                    - generic [aria-hidden] [ref=e582]: ·
+                    - generic [ref=e583]: 1 日
+                  - link "紺野ぶるま「一目ぼれしたんで結婚してほしい」夫とは深夜３時に渋谷の居酒屋でナンパされ…, 日刊スポーツ" [ref=e584]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E7%B4%BA%E9%87%8E%E3%81%B6%E3%82%8B%E3%81%BE-%E4%B8%80%E7%9B%AE%E3%81%BC%E3%82%8C%E3%81%97%E3%81%9F%E3%82%93%E3%81%A7%E7%B5%90%E5%A9%9A%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-%E5%A4%AB%E3%81%A8%E3%81%AF%E6%B7%B1%E5%A4%9C%EF%BC%93%E6%99%82%E3%81%AB%E6%B8%8B%E8%B0%B7%E3%81%AE%E5%B1%85%E9%85%92%E5%B1%8B%E3%81%A7%E3%83%8A%E3%83%B3%E3%83%91%E3%81%95%E3%82%8C/ar-AA2dTwo1
+                    - text: 紺野ぶるま「一目ぼれしたんで結婚してほしい」夫とは深夜３時に渋谷の居酒屋でナンパされ…
+                - generic "紺野ぶるま「一目ぼれしたんで結婚してほしい」夫とは深夜３時に渋谷の居酒屋でナンパされ…" [ref=e587]:
+                  - generic [ref=e589]:
+                    - generic [ref=e590]:
+                      - button "23 いいね!" [ref=e591]:
+                        - generic [ref=e595]: "23"
+                      - button "嫌い" [ref=e596]
+                    - link "コメントの表示 1 コメント" [ref=e601]:
+                      - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E7%B4%BA%E9%87%8E%E3%81%B6%E3%82%8B%E3%81%BE-%E4%B8%80%E7%9B%AE%E3%81%BC%E3%82%8C%E3%81%97%E3%81%9F%E3%82%93%E3%81%A7%E7%B5%90%E5%A9%9A%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-%E5%A4%AB%E3%81%A8%E3%81%AF%E6%B7%B1%E5%A4%9C%EF%BC%93%E6%99%82%E3%81%AB%E6%B8%8B%E8%B0%B7%E3%81%AE%E5%B1%85%E9%85%92%E5%B1%8B%E3%81%A7%E3%83%8A%E3%83%B3%E3%83%91%E3%81%95%E3%82%8C/ar-AA2dTwo1#comments
+                      - button "コメントの表示 1 コメント" [ref=e602]
+                      - generic [aria-hidden] [ref=e605]: "1"
+            - article [ref=e606] [cursor=pointer]:
+              - generic [ref=e612]:
+                - generic [ref=e614]:
+                  - img "ウォッチリストの候補" [ref=e616]
+                  - link [ref=e617]:
+                    - /url: https://www.msn.com/ja-jp/money/watchlist?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - heading "ウォッチリストの候補" [level=2] [ref=e618]
+                  - button "その他のオプション" [ref=e620]
+                - generic [ref=e625]:
+                  - link "GMOインターネット 4784 ‎+5.03%‎ 522.00" [ref=e627]:
+                    - /url: https://www.msn.com/ja-jp/money/watchlist?id=a9e5qh&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e628]:
+                      - generic [ref=e629]: GMOインターネット
+                      - generic [ref=e631]: "4784"
+                    - generic [ref=e637]:
+                      - generic [ref=e638]: ‎+5.03%‎
+                      - generic [ref=e639]: "522.00"
+                  - generic [ref=e640]: あなたへのおすすめ
+                  - link "SBG 9984 ‎-3.92%‎ 5,803.00" [ref=e642]:
+                    - /url: https://www.msn.com/ja-jp/money/watchlist?id=a9j6c7&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e643]:
+                      - generic [ref=e644]: SBG
+                      - generic [ref=e646]: "9984"
+                    - generic [ref=e652]:
+                      - generic [ref=e653]: ‎-3.92%‎
+                      - generic [ref=e654]: 5,803.00
+                    - button "ウォッチリストに追加" [ref=e657]
+                  - link "みずほFG 8411 ‎-1.63%‎ 8,214.00" [ref=e662]:
+                    - /url: https://www.msn.com/ja-jp/money/watchlist?id=a9htvh&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e663]:
+                      - generic [ref=e664]: みずほFG
+                      - generic [ref=e666]: "8411"
+                    - generic [ref=e672]:
+                      - generic [ref=e673]: ‎-1.63%‎
+                      - generic [ref=e674]: 8,214.00
+                    - button "ウォッチリストに追加" [ref=e677]
+                  - link "ニデック 6594 ‎-6.07%‎ 2,010.00" [ref=e682]:
+                    - /url: https://www.msn.com/ja-jp/money/watchlist?id=a9fq9c&ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e683]:
+                      - generic [ref=e684]: ニデック
+                      - generic [ref=e686]: "6594"
+                    - generic [ref=e692]:
+                      - generic [ref=e693]: ‎-6.07%‎
+                      - generic [ref=e694]: 2,010.00
+                    - button "ウォッチリストに追加" [ref=e697]
+                - generic [ref=e702]:
+                  - tablist [ref=e705]:
+                    - tab "ページ 1" [selected] [ref=e706]
+                    - tab "ページ 2" [ref=e708]
+                    - tab "ページ 3" [ref=e710]
+                    - tab "ページ 4" [ref=e712]
+                    - tab "ページ 5" [ref=e714]
+                    - tab "ページ 6"
+                    - tab "ページ 7"
+                  - link "ウォッチリストの候補を見る" [ref=e717]:
+                    - /url: https://www.msn.com/ja-jp/money/watchlist?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+          - generic [ref=e718]:
+            - article [ref=e719] [cursor=pointer]:
+              - generic [ref=e724]:
+                - generic [ref=e726]:
+                  - link [ref=e728]:
+                    - /url: https://www.msn.com/ja-jp/news?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - heading "主要ニュース" [level=2] [ref=e729]
+                  - button "その他のオプション" [ref=e731]
+                - generic [ref=e733]:
+                  - link "1 ICCの締約国会議の議長団が声明 米政権の制裁措置めぐり即時撤回を求める" [ref=e734]:
+                    - /url: https://www.msn.com/ja-jp/news/other/iccの締約国会議の議長団が声明-米政権の制裁措置めぐり即時撤回を求める/ar-AA2dYN5j
+                    - generic [ref=e735]: "1"
+                    - generic [ref=e736]: ICCの締約国会議の議長団が声明 米政権の制裁措置めぐり即時撤回を求める
+                  - link "2 国民スポーツ大会開会、青森で49年ぶり 屋内で式典、20日まで" [ref=e737]:
+                    - /url: https://www.msn.com/ja-jp/sports/全般/国民スポーツ大会開会-青森で49年ぶり-屋内で式典-20日まで/ar-AA2dYuTO
+                    - generic [ref=e738]: "2"
+                    - generic [ref=e739]: 国民スポーツ大会開会、青森で49年ぶり 屋内で式典、20日まで
+                  - link "3 新潟・上越高校の男子生徒ら11人がSNSで女性になりすまし10万円以上だまし取る" [ref=e740]:
+                    - /url: https://www.msn.com/ja-jp/news/other/新潟-上越高校の男子生徒ら11人がsnsで女性になりすまし10万円以上だまし取る/ar-AA2dYK92
+                    - generic [ref=e741]: "3"
+                    - generic [ref=e742]: 新潟・上越高校の男子生徒ら11人がSNSで女性になりすまし10万円以上だまし取る
+                  - link "4 ノーベル賞委員会委員長「米国の発表に驚きはない」、「判事たちへの攻撃を停止すべきだ」と制裁撤回求める" [ref=e743]:
+                    - /url: https://www.msn.com/ja-jp/news/other/ノーベル賞委員会委員長-米国の発表に驚きはない-判事たちへの攻撃を停止すべきだ-と制裁撤回求める/ar-AA2dXLZj
+                    - generic [ref=e744]: "4"
+                    - generic [ref=e745]: ノーベル賞委員会委員長「米国の発表に驚きはない」、「判事たちへの攻撃を停止すべきだ」と制裁撤回求める
+                  - link "5 【更新中】《サイバー空間の有事》JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞" [ref=e746]:
+                    - /url: https://www.msn.com/ja-jp/news/other/更新中-サイバー空間の有事-jr東グループ-えきねっと-など600万件の情報漏洩か-スカイチケットで1464万件-一部パスワードも流出-ブックオフ-gmo-タイムズカーも-不正アクセス/ar-AA2dDGzo
+                    - generic [ref=e747]: "5"
+                    - generic [ref=e748]: 【更新中】《サイバー空間の有事》JR東グループ「えきねっと」など600万件の情報漏洩か スカイチケットで1464万件…一部パスワードも流出 ブックオフ、GMO、タイムズカーも＜不正アクセス＞
+                  - link "6 なぜ多い?15日のセール 割引やポイント還元でねらうシニアの懐" [ref=e749]:
+                    - /url: https://www.msn.com/ja-jp/news/other/なぜ多い-15日のセール-割引やポイント還元でねらうシニアの懐/ar-AA2dYYU9
+                    - generic [ref=e750]: "6"
+                    - generic [ref=e751]: なぜ多い?15日のセール 割引やポイント還元でねらうシニアの懐
+                - tablist [ref=e756]:
+                  - tab "ページ 1" [selected] [ref=e757]
+                  - tab "ページ 2" [ref=e759]
+            - article "「名探偵コナン」平次と和葉、長年の恋がついに決着!「ついにこの日が来た!」「何年待ったと…」ファン感涙の神回に【ネタバレあり反応まとめ】" [ref=e762] [cursor=pointer]:
+              - generic [ref=e766]:
+                - generic [ref=e767]:
+                  - generic [ref=e768]:
+                    - generic [ref=e769]: アニメ！アニメ！
+                    - generic [aria-hidden] [ref=e772]: ·
+                    - generic [ref=e773]: 12 時間
+                  - link "「名探偵コナン」平次と和葉、長年の恋がついに決着!「ついにこの日が来た!」「何年待ったと…」ファン感涙の神回に【ネタバレあり反応まとめ】, アニメ！アニメ！" [ref=e774]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3-%E5%B9%B3%E6%AC%A1%E3%81%A8%E5%92%8C%E8%91%89-%E9%95%B7%E5%B9%B4%E3%81%AE%E6%81%8B%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E6%B1%BA%E7%9D%80-%E3%81%A4%E3%81%84%E3%81%AB%E3%81%93%E3%81%AE%E6%97%A5%E3%81%8C%E6%9D%A5%E3%81%9F-%E4%BD%95%E5%B9%B4%E5%BE%85%E3%81%A3%E3%81%9F%E3%81%A8-%E3%83%95%E3%82%A1%E3%83%B3%E6%84%9F%E6%B6%99%E3%81%AE%E7%A5%9E%E5%9B%9E%E3%81%AB-%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E3%81%82%E3%82%8A%E5%8F%8D%E5%BF%9C%E3%81%BE%E3%81%A8%E3%82%81/ar-AA2dX9C4
+                    - text: 「名探偵コナン」平次と和葉、長年の恋がついに決着!「ついにこの日が来た!」「何年待ったと…」ファン感涙の神回に【ネタバレあり反応まとめ】
+                - generic "「名探偵コナン」平次と和葉、長年の恋がついに決着!「ついにこの日が来た!」「何年待ったと…」ファン感涙の神回に【ネタバレあり反応まとめ】" [ref=e777]:
+                  - generic [ref=e779]:
+                    - generic [ref=e780]:
+                      - button "13 いいね!" [ref=e781]:
+                        - generic [ref=e785]: "13"
+                      - button "嫌い" [ref=e786]
+                    - link "あなたの意見は?" [ref=e791]:
+                      - /url: https://www.msn.com/ja-jp/entertainment/%E5%85%A8%E8%88%AC/%E5%90%8D%E6%8E%A2%E5%81%B5%E3%82%B3%E3%83%8A%E3%83%B3-%E5%B9%B3%E6%AC%A1%E3%81%A8%E5%92%8C%E8%91%89-%E9%95%B7%E5%B9%B4%E3%81%AE%E6%81%8B%E3%81%8C%E3%81%A4%E3%81%84%E3%81%AB%E6%B1%BA%E7%9D%80-%E3%81%A4%E3%81%84%E3%81%AB%E3%81%93%E3%81%AE%E6%97%A5%E3%81%8C%E6%9D%A5%E3%81%9F-%E4%BD%95%E5%B9%B4%E5%BE%85%E3%81%A3%E3%81%9F%E3%81%A8-%E3%83%95%E3%82%A1%E3%83%B3%E6%84%9F%E6%B6%99%E3%81%AE%E7%A5%9E%E5%9B%9E%E3%81%AB-%E3%83%8D%E3%82%BF%E3%83%90%E3%83%AC%E3%81%82%E3%82%8A%E5%8F%8D%E5%BF%9C%E3%81%BE%E3%81%A8%E3%82%81/ar-AA2dX9C4#comments
+                      - button "あなたの意見は?" [ref=e792]
+            - article "MT5版！トレンドの初動に乗る順張りインジケーター「SIMSONIC」" [ref=e795] [cursor=pointer]:
+              - generic [ref=e799]:
+                - generic [ref=e800]:
+                  - generic [ref=e801]: GogoJungle
+                  - link "MT5版！トレンドの初動に乗る順張りインジケーター「SIMSONIC」, GogoJungle" [ref=e804]:
+                    - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=31e84665-2bae-49bb-a081-78f1e83e625f&bdc=ch&bidId=17&bidderId=4&cmExpId=LV4&impId=7&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8UnFeST8jER09e6Pjv94ylzVUCUxvZXw-BsatmXhI2UfwDz-i-C5MhXX0Zey0iI-bzTXmeeuVhgnOgu2yUDxMwiSwYX98Q--ufJbv_TLZLGUea6sdZOfdr0K5L0cJWHvf-9yroEVbRNQ3IdExLad85Udin0M0-Pz64745laaU0HZ0nnMELzrsN-T_Ou5mxQZ1APIJ74cm7uI6ACzTVHN-9z2Odso%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZ29nb2p1bmdsZS5jby5qcCUyZnRvb2xzJTJmaW5kaWNhdG9ycyUyZjU1MDMyJTNmdXRtX3NvdXJjZSUzZG1zbiUyNnV0bV9tZWRpdW0lM2RkaXNwbGF5JTI2dXRtX2NhbXBhaWduJTNkbXNuX2R5bmFtaWNfZmVlZCUyNnV0bV9hZGdyb3VwJTNkcHJvbW8lMjZtc2Nsa2lkJTNkNTYxNWM0Y2U2ZTI1MWRlMGViNTFhZTA0ODdiNjY0NTc%26rlid%3D5615c4ce6e251de0eb51ae0487b66457&rtype=targetURL&tagId=edgechrntp-intranativetwoc-1&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+                    - text: MT5版！トレンドの初動に乗る順張りインジケーター「SIMSONIC」
+                - link "スポンサー" [ref=e806]:
+                  - /url: https://www.bing.com/api/v1/mediation/tracking?adUnit=1732768568&auId=31e84665-2bae-49bb-a081-78f1e83e625f&bdc=ch&bidId=17&bidderId=4&cmExpId=LV4&impId=7&impTy=1&ldc=xfpczr&mkt=ja-jp&oAdUnit=1732768568&pId=1&publisherId=17160724&rId=75d50b4b-38a0-4603-b94c-0a4e122acc26&region=apac&rlink=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8UnFeST8jER09e6Pjv94ylzVUCUxvZXw-BsatmXhI2UfwDz-i-C5MhXX0Zey0iI-bzTXmeeuVhgnOgu2yUDxMwiSwYX98Q--ufJbv_TLZLGUea6sdZOfdr0K5L0cJWHvf-9yroEVbRNQ3IdExLad85Udin0M0-Pz64745laaU0HZ0nnMELzrsN-T_Ou5mxQZ1APIJ74cm7uI6ACzTVHN-9z2Odso%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZ29nb2p1bmdsZS5jby5qcCUyZnRvb2xzJTJmaW5kaWNhdG9ycyUyZjU1MDMyJTNmdXRtX3NvdXJjZSUzZG1zbiUyNnV0bV9tZWRpdW0lM2RkaXNwbGF5JTI2dXRtX2NhbXBhaWduJTNkbXNuX2R5bmFtaWNfZmVlZCUyNnV0bV9hZGdyb3VwJTNkcHJvbW8lMjZtc2Nsa2lkJTNkNTYxNWM0Y2U2ZTI1MWRlMGViNTFhZTA0ODdiNjY0NTc%26rlid%3D5615c4ce6e251de0eb51ae0487b66457&rtype=targetURL&tagId=edgechrntp-intranativetwoc-1&trafficGroup=zfa_angvir&trafficSubGroup=erfreir&uberGroup=hore_1c&uberSubGroup=ov_fpbevat
+            - article [ref=e807] [cursor=pointer]:
+              - generic [ref=e813]:
+                - generic [ref=e815]:
+                  - img "メジャーリーグベースボール" [ref=e817]
+                  - link [ref=e818]:
+                    - /url: https://www.msn.com/ja-jp/sports/mlb?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - heading "メジャーリーグベースボール" [level=2] [ref=e819]
+                  - button "その他の関心事項" [ref=e820]
+                  - generic [ref=e821]:
+                    - generic "生中継" [ref=e822]:
+                      - button "生中継" [ref=e823]
+                    - button "その他のオプション" [ref=e824]
+                - generic [ref=e828]:
+                  - link "Wソックス ライブ Top 6 ガーディアンズ" [ref=e830]:
+                    - /url: https://www.msn.com/ja-jp/sports/mlb/game-center/sp-id-c578c55b67d1466b8e4aaeb899fca38f?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e831]:
+                      - generic [ref=e832]:
+                        - generic [ref=e833]:
+                          - button "クリックして Wソックス をフォロー"
+                        - generic "Wソックス" [ref=e834]
+                      - generic [ref=e836]:
+                        - generic "click to see score and details" [ref=e838]: ライブ
+                        - generic "Top 6" [ref=e839]
+                      - generic [ref=e841]:
+                        - generic [ref=e842]:
+                          - button "クリックして ガーディアンズ をフォロー"
+                        - generic "ガーディアンズ" [ref=e843]
+                  - link "ドジャース 9:00 10月12日 ブリュワーズ" [ref=e845]:
+                    - /url: https://www.msn.com/ja-jp/sports/mlb/game-center/sp-id-8e70614b769c4e678e017e3ff198ca51?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e846]:
+                      - generic [ref=e847]:
+                        - generic [ref=e848]:
+                          - button "クリックして ドジャース をフォロー"
+                        - generic "ドジャース" [ref=e849]
+                      - generic [ref=e851]:
+                        - generic "9:00" [ref=e852]
+                        - generic "10月12日" [ref=e854]
+                      - generic [ref=e855]:
+                        - generic [ref=e856]:
+                          - button "クリックして ブリュワーズ をフォロー"
+                        - generic "ブリュワーズ" [ref=e857]
+                  - link "ドジャース 6:00 10月13日 ブリュワーズ" [ref=e859]:
+                    - /url: https://www.msn.com/ja-jp/sports/mlb/game-center/sp-id-db3669b3e64f455285f64906324c9cef?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+                    - generic [ref=e860]:
+                      - generic [ref=e861]:
+                        - generic [ref=e862]:
+                          - button "クリックして ドジャース をフォロー"
+                        - generic "ドジャース" [ref=e863]
+                      - generic [ref=e865]:
+                        - generic "6:00" [ref=e866]
+                        - generic "10月13日" [ref=e868]
+                      - generic [ref=e869]:
+                        - generic [ref=e870]:
+                          - button "クリックして ブリュワーズ をフォロー"
+                        - generic "ブリュワーズ" [ref=e871]
+                - generic [ref=e873]:
+                  - tablist [ref=e876]:
+                    - tab "ページ 1" [selected] [ref=e877]
+                    - tab "ページ 2" [ref=e879]
+                    - tab "ページ 3" [ref=e881]
+                    - tab "ページ 4" [ref=e883]
+                    - tab "ページ 5" [ref=e885]
+                    - tab "ページ 6"
+                    - tab "ページ 7"
+                    - tab "ページ 8"
+                    - tab "ページ 9"
+                    - tab "ページ 10"
+                    - tab "ページ 11"
+                    - tab "ページ 12"
+                  - link "メジャーリーグベースボール をもっと見る" [ref=e888]:
+                    - /url: https://www.msn.com/ja-jp/sports/mlb?ocid=entnewsntp&cvid=6acae64d8ab74a19846a7cb5c0964e58
+            - article "マクドナルド、初日から大反響「10個は買う」「常に販売してほしい」バカうま新作の熱烈レビュー3選!" [ref=e889] [cursor=pointer]:
+              - generic [ref=e893]:
+                - generic [ref=e894]:
+                  - generic [ref=e895]:
+                    - generic [ref=e896]: メンズレシピ
+                    - generic [aria-hidden] [ref=e899]: ·
+                    - generic [ref=e900]: 18 時間
+                  - link "マクドナルド、初日から大反響「10個は買う」「常に販売してほしい」バカうま新作の熱烈レビュー3選!, メンズレシピ" [ref=e901]:
+                    - /url: https://www.msn.com/ja-jp/food-and-drink/recipes/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-%E5%88%9D%E6%97%A5%E3%81%8B%E3%82%89%E5%A4%A7%E5%8F%8D%E9%9F%BF-10%E5%80%8B%E3%81%AF%E8%B2%B7%E3%81%86-%E5%B8%B8%E3%81%AB%E8%B2%A9%E5%A3%B2%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-%E3%83%90%E3%82%AB%E3%81%86%E3%81%BE%E6%96%B0%E4%BD%9C%E3%81%AE%E7%86%B1%E7%83%88%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC3%E9%81%B8/ar-AA2dWB5c
+                    - text: マクドナルド、初日から大反響「10個は買う」「常に販売してほしい」バカうま新作の熱烈レビュー3選!
+                - generic "マクドナルド、初日から大反響「10個は買う」「常に販売してほしい」バカうま新作の熱烈レビュー3選!" [ref=e904]:
+                  - generic [ref=e906]:
+                    - generic [ref=e907]:
+                      - button "10 いいね!" [ref=e908]:
+                        - generic [ref=e912]: "10"
+                      - button "嫌い" [ref=e913]
+                    - link "あなたの意見は?" [ref=e918]:
+                      - /url: https://www.msn.com/ja-jp/food-and-drink/recipes/%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89-%E5%88%9D%E6%97%A5%E3%81%8B%E3%82%89%E5%A4%A7%E5%8F%8D%E9%9F%BF-10%E5%80%8B%E3%81%AF%E8%B2%B7%E3%81%86-%E5%B8%B8%E3%81%AB%E8%B2%A9%E5%A3%B2%E3%81%97%E3%81%A6%E3%81%BB%E3%81%97%E3%81%84-%E3%83%90%E3%82%AB%E3%81%86%E3%81%BE%E6%96%B0%E4%BD%9C%E3%81%AE%E7%86%B1%E7%83%88%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC3%E9%81%B8/ar-AA2dWB5c#comments
+                      - button "あなたの意見は?" [ref=e919]
+            - article "氷川きよし 「この子も実は男の子なんです」８歳児母の言葉に涙 ＴＶで顔くしゃくしゃにして泣く「氷川さんは氷川さんでいい」" [ref=e922] [cursor=pointer]:
+              - generic [ref=e926]:
+                - generic [ref=e927]:
+                  - generic [ref=e928]:
+                    - generic [ref=e929]: デイリースポーツ
+                    - generic [aria-hidden] [ref=e932]: ·
+                    - generic [ref=e933]: 13 時間
+                  - link "氷川きよし 「この子も実は男の子なんです」８歳児母の言葉に涙 ＴＶで顔くしゃくしゃにして泣く「氷川さんは氷川さんでいい」, デイリースポーツ" [ref=e934]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E6%B0%B7%E5%B7%9D%E3%81%8D%E3%82%88%E3%81%97-%E3%81%93%E3%81%AE%E5%AD%90%E3%82%82%E5%AE%9F%E3%81%AF%E7%94%B7%E3%81%AE%E5%AD%90%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99-%EF%BC%98%E6%AD%B3%E5%85%90%E6%AF%8D%E3%81%AE%E8%A8%80%E8%91%89%E3%81%AB%E6%B6%99-%EF%BD%94%EF%BD%96%E3%81%A7%E9%A1%94%E3%81%8F%E3%81%97%E3%82%83%E3%81%8F%E3%81%97%E3%82%83%E3%81%AB%E3%81%97%E3%81%A6%E6%B3%A3%E3%81%8F-%E6%B0%B7%E5%B7%9D%E3%81%95%E3%82%93%E3%81%AF%E6%B0%B7%E5%B7%9D%E3%81%95%E3%82%93%E3%81%A7%E3%81%84%E3%81%84/ar-AA2dX73y
+                    - text: 氷川きよし 「この子も実は男の子なんです」８歳児母の言葉に涙 ＴＶで顔くしゃくしゃにして泣く「氷川さんは氷川さんでいい」
+                - generic "氷川きよし 「この子も実は男の子なんです」８歳児母の言葉に涙 ＴＶで顔くしゃくしゃにして泣く「氷川さんは氷川さんでいい」" [ref=e937]:
+                  - generic [ref=e939]:
+                    - generic [ref=e940]:
+                      - button "23 いいね!" [ref=e941]:
+                        - generic [ref=e945]: "23"
+                      - button "嫌い" [ref=e946]
+                    - link "あなたの意見は?" [ref=e951]:
+                      - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E6%B0%B7%E5%B7%9D%E3%81%8D%E3%82%88%E3%81%97-%E3%81%93%E3%81%AE%E5%AD%90%E3%82%82%E5%AE%9F%E3%81%AF%E7%94%B7%E3%81%AE%E5%AD%90%E3%81%AA%E3%82%93%E3%81%A7%E3%81%99-%EF%BC%98%E6%AD%B3%E5%85%90%E6%AF%8D%E3%81%AE%E8%A8%80%E8%91%89%E3%81%AB%E6%B6%99-%EF%BD%94%EF%BD%96%E3%81%A7%E9%A1%94%E3%81%8F%E3%81%97%E3%82%83%E3%81%8F%E3%81%97%E3%82%83%E3%81%AB%E3%81%97%E3%81%A6%E6%B3%A3%E3%81%8F-%E6%B0%B7%E5%B7%9D%E3%81%95%E3%82%93%E3%81%AF%E6%B0%B7%E5%B7%9D%E3%81%95%E3%82%93%E3%81%A7%E3%81%84%E3%81%84/ar-AA2dX73y#comments
+                      - button "あなたの意見は?" [ref=e952]
+            - article "東京に疲れて“東北に移住した”20代女性の後悔。憧れの仕事で「月6万円」しか稼げず…／移住支援金は1人いくらもらえるのか調べてみた" [ref=e955] [cursor=pointer]:
+              - generic [ref=e959]:
+                - generic [ref=e960]:
+                  - generic [ref=e961]:
+                    - generic [ref=e962]: SPA!
+                    - generic [aria-hidden] [ref=e965]: ·
+                    - generic [ref=e966]: 1 日
+                  - link "東京に疲れて“東北に移住した”20代女性の後悔。憧れの仕事で「月6万円」しか稼げず…／移住支援金は1人いくらもらえるのか調べてみた, SPA!" [ref=e967]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E6%9D%B1%E4%BA%AC%E3%81%AB%E7%96%B2%E3%82%8C%E3%81%A6-%E6%9D%B1%E5%8C%97%E3%81%AB%E7%A7%BB%E4%BD%8F%E3%81%97%E3%81%9F-20%E4%BB%A3%E5%A5%B3%E6%80%A7%E3%81%AE%E5%BE%8C%E6%82%94-%E6%86%A7%E3%82%8C%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7-%E6%9C%886%E4%B8%87%E5%86%86-%E3%81%97%E3%81%8B%E7%A8%BC%E3%81%92%E3%81%9A-%E7%A7%BB%E4%BD%8F%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%AF1%E4%BA%BA%E3%81%84%E3%81%8F%E3%82%89%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%81%9F/ar-AA2dW549
+                    - text: 東京に疲れて“東北に移住した”20代女性の後悔。憧れの仕事で「月6万円」しか稼げず…／移住支援金は1人いくらもらえるのか調べてみた
+                - generic "東京に疲れて“東北に移住した”20代女性の後悔。憧れの仕事で「月6万円」しか稼げず…／移住支援金は1人いくらもらえるのか調べてみた" [ref=e970]:
+                  - generic [ref=e972]:
+                    - generic [ref=e973]:
+                      - button "8 いいね!" [ref=e974]:
+                        - generic [ref=e978]: "8"
+                      - button "嫌い" [ref=e979]
+                    - link "コメントの表示 3 コメント" [ref=e984]:
+                      - /url: https://www.msn.com/ja-jp/news/other/%E6%9D%B1%E4%BA%AC%E3%81%AB%E7%96%B2%E3%82%8C%E3%81%A6-%E6%9D%B1%E5%8C%97%E3%81%AB%E7%A7%BB%E4%BD%8F%E3%81%97%E3%81%9F-20%E4%BB%A3%E5%A5%B3%E6%80%A7%E3%81%AE%E5%BE%8C%E6%82%94-%E6%86%A7%E3%82%8C%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%A7-%E6%9C%886%E4%B8%87%E5%86%86-%E3%81%97%E3%81%8B%E7%A8%BC%E3%81%92%E3%81%9A-%E7%A7%BB%E4%BD%8F%E6%94%AF%E6%8F%B4%E9%87%91%E3%81%AF1%E4%BA%BA%E3%81%84%E3%81%8F%E3%82%89%E3%82%82%E3%82%89%E3%81%88%E3%82%8B%E3%81%AE%E3%81%8B%E8%AA%BF%E3%81%B9%E3%81%A6%E3%81%BF%E3%81%9F/ar-AA2dW549#comments
+                      - button "コメントの表示 3 コメント" [ref=e985]
+                      - generic [aria-hidden] [ref=e988]: "3"
+            - article "【速報】商業施設の立体駐車場で車が歩行者に衝突4人重軽傷 茨城・ひたちなか市" [ref=e989] [cursor=pointer]:
+              - generic [ref=e996]:
+                - generic [ref=e997]:
+                  - generic [ref=e998]:
+                    - generic [ref=e999]: テレ朝NEWS
+                    - generic [aria-hidden] [ref=e1002]: ·
+                    - generic [ref=e1003]: 19 時間
+                  - link "【速報】商業施設の立体駐車場で車が歩行者に衝突4人重軽傷 茨城・ひたちなか市, テレ朝NEWS" [ref=e1004]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E9%80%9F%E5%A0%B1-%E5%95%86%E6%A5%AD%E6%96%BD%E8%A8%AD%E3%81%AE%E7%AB%8B%E4%BD%93%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%A7%E8%BB%8A%E3%81%8C%E6%AD%A9%E8%A1%8C%E8%80%85%E3%81%AB%E8%A1%9D%E7%AA%814%E4%BA%BA%E9%87%8D%E8%BB%BD%E5%82%B7-%E8%8C%A8%E5%9F%8E-%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%B8%82/vi-AA2dWmN2
+                    - text: 【速報】商業施設の立体駐車場で車が歩行者に衝突4人重軽傷 茨城・ひたちなか市
+                - generic "【速報】商業施設の立体駐車場で車が歩行者に衝突4人重軽傷 茨城・ひたちなか市" [ref=e1007]:
+                  - generic [ref=e1009]:
+                    - generic [ref=e1010]:
+                      - button "15 いいね!" [ref=e1011]:
+                        - generic [ref=e1015]: "15"
+                      - button "嫌い" [ref=e1016]
+                    - link "あなたの意見は?" [ref=e1021]:
+                      - /url: https://www.msn.com/ja-jp/news/other/%E9%80%9F%E5%A0%B1-%E5%95%86%E6%A5%AD%E6%96%BD%E8%A8%AD%E3%81%AE%E7%AB%8B%E4%BD%93%E9%A7%90%E8%BB%8A%E5%A0%B4%E3%81%A7%E8%BB%8A%E3%81%8C%E6%AD%A9%E8%A1%8C%E8%80%85%E3%81%AB%E8%A1%9D%E7%AA%814%E4%BA%BA%E9%87%8D%E8%BB%BD%E5%82%B7-%E8%8C%A8%E5%9F%8E-%E3%81%B2%E3%81%9F%E3%81%A1%E3%81%AA%E3%81%8B%E5%B8%82/vi-AA2dWmN2#comments
+                      - button "あなたの意見は?" [ref=e1022]
+          - generic [ref=e1025]:
+            - article [ref=e1026] [cursor=pointer]:
+              - link [ref=e1029]:
+                - /url: https://www.msn.com/ja-jp/play?cgfrom=cg_ntp_carousel
+                - generic [ref=e1032]:
+                  - generic [ref=e1033]:
+                    - generic [ref=e1034]:
+                      - link "無料オンライン ゲーム" [ref=e1035]:
+                        - /url: https://www.msn.com/ja-jp/play?cgfrom=cg_ntp_carousel
+                      - link "無料オンライン ゲーム" [ref=e1038]:
+                        - /url: https://www.msn.com/ja-jp/play?cgfrom=cg_ntp_carousel
+                    - generic [ref=e1039]:
+                      - generic:
+                        - link "さらに表示" [ref=e1040]:
+                          - /url: https://www.msn.com/ja-jp/play?cgfrom=cg_ntp_carousel
+                        - generic "その他のオプション" [ref=e1041]:
+                          - button "その他のオプション" [ref=e1042]
+                  - tabpanel [ref=e1044]:
+                    - generic [ref=e1046]:
+                      - generic [ref=e1048]:
+                        - generic:
+                          - link "Solitaire Mahjong Classic" [ref=e1050]:
+                            - /url: https://www.msn.com/ja-jp/play/games/solitaire-mahjong-classic/cg-9p3m290dfqkb?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Solitaire Mahjong Classic" [ref=e1052]
+                            - generic [ref=e1053]:
+                              - paragraph [ref=e1054]: Solitaire Mahjong Classic
+                              - generic [ref=e1055]:
+                                - img "人気の定番" [ref=e1056]
+                                - generic [ref=e1057]: 人気の定番
+                          - link "FreeCell - Classic Solitaire" [ref=e1059]:
+                            - /url: https://www.msn.com/ja-jp/play/games/freecell--classic-solitaire/cg-9nvz7cjd197g?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "FreeCell - Classic Solitaire" [ref=e1061]
+                            - generic [ref=e1062]:
+                              - paragraph [ref=e1063]: FreeCell - Classic Solitaire
+                              - generic [ref=e1064]:
+                                - img "カード" [ref=e1065]
+                                - generic [ref=e1066]: カード
+                          - link "Hexa Stack" [ref=e1068]:
+                            - /url: https://www.msn.com/ja-jp/play/games/hexa-stack/cg-9nrtsrw7wfqb?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Hexa Stack" [ref=e1070]
+                            - generic [ref=e1071]:
+                              - paragraph [ref=e1072]: Hexa Stack
+                              - generic [ref=e1073]:
+                                - img "マッチ 3 パズル" [ref=e1074]
+                                - generic [ref=e1075]: マッチ 3 パズル
+                          - link "Turbine Tycoon" [ref=e1077]:
+                            - /url: https://www.msn.com/ja-jp/play/games/turbine-tycoon/cg-9n1dmzxptvsj?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Turbine Tycoon" [ref=e1079]
+                            - generic [ref=e1080]:
+                              - paragraph [ref=e1081]: Turbine Tycoon
+                              - generic [ref=e1082]:
+                                - img "Idle" [ref=e1083]
+                                - generic [ref=e1084]: Idle
+                          - link "Pirate Treasures" [ref=e1086]:
+                            - /url: https://www.msn.com/ja-jp/play/games/pirate-treasures/cg-9n8gsp6g4hd2?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Pirate Treasures" [ref=e1088]
+                            - generic [ref=e1089]:
+                              - paragraph [ref=e1090]: Pirate Treasures
+                              - generic [ref=e1091]:
+                                - img "マッチ 3 パズル" [ref=e1092]
+                                - generic [ref=e1093]: マッチ 3 パズル
+                          - link "Puzzle Blocks Classic" [ref=e1095]:
+                            - /url: https://www.msn.com/ja-jp/play/games/puzzle-blocks-classic/cg-9p95wfwcn97l?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Puzzle Blocks Classic" [ref=e1097]
+                            - generic [ref=e1098]:
+                              - paragraph [ref=e1099]: Puzzle Blocks Classic
+                              - generic [ref=e1100]:
+                                - img "パズル" [ref=e1101]
+                                - generic [ref=e1102]: パズル
+                          - link "Solitaire - Classic Klondike" [ref=e1104]:
+                            - /url: https://www.msn.com/ja-jp/play/games/solitaire-classic-mastery/cg-9pm3r8f7wm5r?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Solitaire - Classic Klondike" [ref=e1106]
+                            - generic [ref=e1107]:
+                              - paragraph [ref=e1108]: Solitaire - Classic Klondike
+                              - generic [ref=e1109]:
+                                - img "カード" [ref=e1110]
+                                - generic [ref=e1111]: カード
+                          - link "Mahjong Classic" [ref=e1113]:
+                            - /url: https://www.msn.com/ja-jp/play/games/mahjong-classic/cg-9nrpjt2r20bt?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Mahjong Classic" [ref=e1115]
+                            - generic [ref=e1116]:
+                              - paragraph [ref=e1117]: Mahjong Classic
+                              - generic [ref=e1118]:
+                                - img "人気の定番" [ref=e1119]
+                                - generic [ref=e1120]: 人気の定番
+                          - link "Words of Wonders" [ref=e1122]:
+                            - /url: https://www.msn.com/ja-jp/play/games/words-of-wonders/cg-9pk31v1nd36z?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Words of Wonders" [ref=e1124]
+                            - generic [ref=e1125]:
+                              - paragraph [ref=e1126]: Words of Wonders
+                              - generic [ref=e1127]:
+                                - img "単語" [ref=e1128]
+                                - generic [ref=e1129]: 単語
+                          - link "TapTap Arrow" [ref=e1131]:
+                            - /url: https://www.msn.com/ja-jp/play/games/taptap-arrow/cg-9ng0c12cnfsk?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "TapTap Arrow" [ref=e1133]
+                            - generic [ref=e1134]:
+                              - paragraph [ref=e1135]: TapTap Arrow
+                              - generic [ref=e1136]:
+                                - img "パズル" [ref=e1137]
+                                - generic [ref=e1138]: パズル
+                          - link "トロピカルマージ" [ref=e1140]:
+                            - /url: https://www.msn.com/ja-jp/play/games/tropical-merge/cg-9n5tk2sn4464?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "トロピカルマージ" [ref=e1142]
+                            - generic [ref=e1143]:
+                              - paragraph [ref=e1144]: トロピカルマージ
+                              - generic [ref=e1145]:
+                                - img "アドベンチャー" [ref=e1146]
+                                - generic [ref=e1147]: アドベンチャー
+                          - link "Solitaire Collection - Classic Solitaire" [ref=e1149]:
+                            - /url: https://www.msn.com/ja-jp/play/games/solitaire-collection--classic-solitaire/cg-9n0t94c2f10w?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Solitaire Collection - Classic Solitaire" [ref=e1151]
+                            - generic [ref=e1152]:
+                              - paragraph [ref=e1153]: Solitaire Collection - Classic Solitaire
+                              - generic [ref=e1154]:
+                                - img "カード" [ref=e1155]
+                                - generic [ref=e1156]: カード
+                          - link "Amazing Spider Solitaire" [ref=e1158]:
+                            - /url: https://www.msn.com/ja-jp/play/games/amazing-spider-solitaire/cg-9pl8blkwr1n2?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Amazing Spider Solitaire" [ref=e1160]
+                            - generic [ref=e1161]:
+                              - paragraph [ref=e1162]: Amazing Spider Solitaire
+                              - generic [ref=e1163]:
+                                - img "カード" [ref=e1164]
+                                - generic [ref=e1165]: カード
+                          - link "DesignVille" [ref=e1167]:
+                            - /url: https://www.msn.com/ja-jp/play/games/designville/cg-9nkmj1kxrw5n?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "DesignVille" [ref=e1169]
+                            - generic [ref=e1170]:
+                              - paragraph [ref=e1171]: DesignVille
+                              - generic [ref=e1172]:
+                                - img "パズル" [ref=e1173]
+                                - generic [ref=e1174]: パズル
+                          - link "Piece of Cake" [ref=e1176]:
+                            - /url: https://www.msn.com/ja-jp/play/games/piece-of-cake/cg-9n5mln8fpwg8?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Piece of Cake" [ref=e1178]
+                            - generic [ref=e1179]:
+                              - paragraph [ref=e1180]: Piece of Cake
+                              - generic [ref=e1181]:
+                                - img "パズル" [ref=e1182]
+                                - generic [ref=e1183]: パズル
+                          - link "Daily Mahjong" [ref=e1185]:
+                            - /url: https://www.msn.com/ja-jp/play/games/daily-mahjong/cg-9pnlb0jggpmw?cgfrom=cg_ntp_cardgameitem&ocid=entnewsntp
+                            - img "Daily Mahjong" [ref=e1187]
+                            - generic [ref=e1188]:
+                              - paragraph [ref=e1189]: Daily Mahjong
+                              - generic [ref=e1190]:
+                                - img "Mahjong" [ref=e1191]
+                                - generic [ref=e1192]: Mahjong
+                          - link "さらに表示" [ref=e1194]:
+                            - /url: https://www.msn.com/ja-jp/play?cgfrom=cg_ntp_carousel
+                      - button "next" [ref=e1199]
+            - article [ref=e1204] [cursor=pointer]:
+              - generic [ref=e1209]:
+                - generic [ref=e1211]:
+                  - link [ref=e1214]:
+                    - /url: ""
+                    - heading "あなたへのおすすめ" [level=2] [ref=e1215]
+                  - button "その他のオプション" [ref=e1217]
+                - generic [ref=e1220]:
+                  - button "クリックしてトピック ビジネス をフォローする" [ref=e1222]:
+                    - generic [ref=e1223]: ビジネス
+                  - button "クリックしてトピック 映画 をフォローする" [ref=e1231]:
+                    - generic [ref=e1232]: 映画
+                  - button "クリックしてトピック アニメ をフォローする" [ref=e1240]:
+                    - generic [ref=e1241]: アニメ
+                  - button "クリックしてトピック 音楽 をフォローする" [ref=e1249]:
+                    - generic [ref=e1250]: 音楽
+                  - button "クリックしてトピック レシピ をフォローする" [ref=e1258]:
+                    - generic [ref=e1259]: レシピ
+                - generic [ref=e1267]:
+                  - tablist [ref=e1270]:
+                    - tab "ページ 1" [selected] [ref=e1271]
+                    - tab "ページ 2" [ref=e1273]
+                    - tab "ページ 3" [ref=e1275]
+                    - tab "ページ 4" [ref=e1277]
+                    - tab "ページ 5" [ref=e1279]
+                    - tab "ページ 6"
+                    - tab "ページ 7"
+                    - tab "ページ 8"
+                    - tab "ページ 9"
+                    - tab "ページ 10"
+                  - link "トピックをもっと見る" [ref=e1282]:
+                    - /url: "#"
+            - article "「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「どこで買ったかよく聞かれる」「雨の日もすぐ乾く」" [ref=e1283] [cursor=pointer]:
+              - generic [ref=e1287]:
+                - generic [ref=e1288]:
+                  - generic [ref=e1289]:
+                    - generic [ref=e1290]: ねとらぼ
+                    - generic [aria-hidden] [ref=e1293]: ·
+                    - generic [ref=e1294]: 16 時間
+                  - link "「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「どこで買ったかよく聞かれる」「雨の日もすぐ乾く」, ねとらぼ" [ref=e1295]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E7%B5%90%E5%B1%80%E3%81%AF2%E6%9E%9A%E8%B2%B7%E3%81%84%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F-3990%E5%86%86-1990%E5%86%86-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AE-%E3%81%8A%E5%BE%97%E3%83%91%E3%83%B3%E3%83%84-%E3%81%AB%E9%AB%98%E8%A9%95%E4%BE%A1%E3%81%AE%E5%A3%B0-%E3%81%A9%E3%81%93%E3%81%A7%E8%B2%B7%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%88%E3%81%8F%E8%81%9E%E3%81%8B%E3%82%8C%E3%82%8B-%E9%9B%A8%E3%81%AE%E6%97%A5%E3%82%82%E3%81%99%E3%81%90%E4%B9%BE%E3%81%8F/ar-AA2dXfVx
+                    - text: 「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「どこで買ったかよく聞かれる」「雨の日もすぐ乾く」
+                - generic "「結局は2枚買いしてしまった」 3990円→1990円！ ユニクロの“お得パンツ”に高評価の声「どこで買ったかよく聞かれる」「雨の日もすぐ乾く」" [ref=e1298]:
+                  - generic [ref=e1300]:
+                    - generic [ref=e1301]:
+                      - button "いいね" [ref=e1302]
+                      - button "嫌い" [ref=e1306]
+                    - link "あなたの意見は?" [ref=e1311]:
+                      - /url: https://www.msn.com/ja-jp/news/other/%E7%B5%90%E5%B1%80%E3%81%AF2%E6%9E%9A%E8%B2%B7%E3%81%84%E3%81%97%E3%81%A6%E3%81%97%E3%81%BE%E3%81%A3%E3%81%9F-3990%E5%86%86-1990%E5%86%86-%E3%83%A6%E3%83%8B%E3%82%AF%E3%83%AD%E3%81%AE-%E3%81%8A%E5%BE%97%E3%83%91%E3%83%B3%E3%83%84-%E3%81%AB%E9%AB%98%E8%A9%95%E4%BE%A1%E3%81%AE%E5%A3%B0-%E3%81%A9%E3%81%93%E3%81%A7%E8%B2%B7%E3%81%A3%E3%81%9F%E3%81%8B%E3%82%88%E3%81%8F%E8%81%9E%E3%81%8B%E3%82%8C%E3%82%8B-%E9%9B%A8%E3%81%AE%E6%97%A5%E3%82%82%E3%81%99%E3%81%90%E4%B9%BE%E3%81%8F/ar-AA2dXfVx#comments
+                      - button "あなたの意見は?" [ref=e1312]
+            - article [ref=e1315] [cursor=pointer]
+            - article "齋藤飛鳥「すぐに仕事を辞めたくなっちゃう」と告白 ２年前に語った“引退危機”の真意も明かす…「アナザースカイ」" [ref=e1322] [cursor=pointer]:
+              - generic [ref=e1326]:
+                - generic [ref=e1327]:
+                  - generic [ref=e1328]:
+                    - generic [ref=e1329]: スポーツ報知
+                    - generic [aria-hidden] [ref=e1332]: ·
+                    - generic [ref=e1333]: 3 時間
+                  - link "齋藤飛鳥「すぐに仕事を辞めたくなっちゃう」と告白 ２年前に語った“引退危機”の真意も明かす…「アナザースカイ」, スポーツ報知" [ref=e1334]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5-%E3%81%99%E3%81%90%E3%81%AB%E4%BB%95%E4%BA%8B%E3%82%92%E8%BE%9E%E3%82%81%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%86-%E3%81%A8%E5%91%8A%E7%99%BD-%EF%BC%92%E5%B9%B4%E5%89%8D%E3%81%AB%E8%AA%9E%E3%81%A3%E3%81%9F-%E5%BC%95%E9%80%80%E5%8D%B1%E6%A9%9F-%E3%81%AE%E7%9C%9F%E6%84%8F%E3%82%82%E6%98%8E%E3%81%8B%E3%81%99-%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC%E3%82%B9%E3%82%AB%E3%82%A4/ar-AA2dYYxe
+                    - text: 齋藤飛鳥「すぐに仕事を辞めたくなっちゃう」と告白 ２年前に語った“引退危機”の真意も明かす…「アナザースカイ」
+                - generic [ref=e1335]:
+                  - generic "齋藤飛鳥「すぐに仕事を辞めたくなっちゃう」と告白 ２年前に語った“引退危機”の真意も明かす…「アナザースカイ」" [ref=e1337]:
+                    - generic [ref=e1339]:
+                      - generic [ref=e1340]:
+                        - button "3 いいね!" [ref=e1341]:
+                          - generic [ref=e1345]: "3"
+                        - button "嫌い" [ref=e1346]
+                      - link "あなたの意見は?" [ref=e1351]:
+                        - /url: https://www.msn.com/ja-jp/news/other/%E9%BD%8B%E8%97%A4%E9%A3%9B%E9%B3%A5-%E3%81%99%E3%81%90%E3%81%AB%E4%BB%95%E4%BA%8B%E3%82%92%E8%BE%9E%E3%82%81%E3%81%9F%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A1%E3%82%83%E3%81%86-%E3%81%A8%E5%91%8A%E7%99%BD-%EF%BC%92%E5%B9%B4%E5%89%8D%E3%81%AB%E8%AA%9E%E3%81%A3%E3%81%9F-%E5%BC%95%E9%80%80%E5%8D%B1%E6%A9%9F-%E3%81%AE%E7%9C%9F%E6%84%8F%E3%82%82%E6%98%8E%E3%81%8B%E3%81%99-%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC%E3%82%B9%E3%82%AB%E3%82%A4/ar-AA2dYYxe#comments
+                        - button "あなたの意見は?" [ref=e1352]
+                  - button "スポーツ報知 をフォローしています" [ref=e1355]:
+                    - generic [ref=e1357]: フォロー中
+          - generic [ref=e1358]:
+            - article "障害者５０人が「９か月」で雇用打ち切り、予定は「１年半」・業者任せの就労管理が原因か…調剤大手子会社で" [ref=e1359] [cursor=pointer]:
+              - generic [ref=e1363]:
+                - generic [ref=e1364]:
+                  - generic [ref=e1365]:
+                    - generic [ref=e1366]: 読売新聞
+                    - generic [aria-hidden] [ref=e1369]: ·
+                    - generic [ref=e1370]: 5 時間
+                  - link "障害者５０人が「９か月」で雇用打ち切り、予定は「１年半」・業者任せの就労管理が原因か…調剤大手子会社で, 読売新聞" [ref=e1371]:
+                    - /url: https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/%E9%9A%9C%E5%AE%B3%E8%80%85%EF%BC%95%EF%BC%90%E4%BA%BA%E3%81%8C-%EF%BC%99%E3%81%8B%E6%9C%88-%E3%81%A7%E9%9B%87%E7%94%A8%E6%89%93%E3%81%A1%E5%88%87%E3%82%8A-%E4%BA%88%E5%AE%9A%E3%81%AF-%EF%BC%91%E5%B9%B4%E5%8D%8A-%E6%A5%AD%E8%80%85%E4%BB%BB%E3%81%9B%E3%81%AE%E5%B0%B1%E5%8A%B4%E7%AE%A1%E7%90%86%E3%81%8C%E5%8E%9F%E5%9B%A0%E3%81%8B-%E8%AA%BF%E5%89%A4%E5%A4%A7%E6%89%8B%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%A7/ar-AA2dYtSx
+                    - text: 障害者５０人が「９か月」で雇用打ち切り、予定は「１年半」・業者任せの就労管理が原因か…調剤大手子会社で
+                - generic "障害者５０人が「９か月」で雇用打ち切り、予定は「１年半」・業者任せの就労管理が原因か…調剤大手子会社で" [ref=e1374]:
+                  - generic [ref=e1376]:
+                    - generic [ref=e1377]:
+                      - button "7 いいね!" [ref=e1378]:
+                        - generic [ref=e1382]: "7"
+                      - button "嫌い" [ref=e1383]
+                    - link "コメントの表示 5 コメント" [ref=e1388]:
+                      - /url: https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/%E9%9A%9C%E5%AE%B3%E8%80%85%EF%BC%95%EF%BC%90%E4%BA%BA%E3%81%8C-%EF%BC%99%E3%81%8B%E6%9C%88-%E3%81%A7%E9%9B%87%E7%94%A8%E6%89%93%E3%81%A1%E5%88%87%E3%82%8A-%E4%BA%88%E5%AE%9A%E3%81%AF-%EF%BC%91%E5%B9%B4%E5%8D%8A-%E6%A5%AD%E8%80%85%E4%BB%BB%E3%81%9B%E3%81%AE%E5%B0%B1%E5%8A%B4%E7%AE%A1%E7%90%86%E3%81%8C%E5%8E%9F%E5%9B%A0%E3%81%8B-%E8%AA%BF%E5%89%A4%E5%A4%A7%E6%89%8B%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%A7/ar-AA2dYtSx#comments
+                      - button "コメントの表示 5 コメント" [ref=e1389]
+                      - generic [aria-hidden] [ref=e1392]: "5"
+            - article "警視庁・練馬警察署、特殊詐欺の被害防止呼びかけ" [ref=e1393] [cursor=pointer]:
+              - generic [ref=e1400]:
+                - generic [ref=e1401]:
+                  - generic [ref=e1402]:
+                    - generic [ref=e1403]: 日テレNEWS NNN
+                    - generic [aria-hidden] [ref=e1406]: ·
+                    - generic [ref=e1407]: 15 時間
+                  - link "警視庁・練馬警察署、特殊詐欺の被害防止呼びかけ, 日テレNEWS NNN" [ref=e1408]:
+                    - /url: https://www.msn.com/ja-jp/news/other/%E8%AD%A6%E8%A6%96%E5%BA%81-%E7%B7%B4%E9%A6%AC%E8%AD%A6%E5%AF%9F%E7%BD%B2-%E7%89%B9%E6%AE%8A%E8%A9%90%E6%AC%BA%E3%81%AE%E8%A2%AB%E5%AE%B3%E9%98%B2%E6%AD%A2%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91/vi-AA2dWMZz
+                    - text: 警視庁・練馬警察署、特殊詐欺の被害防止呼びかけ
+                - generic "警視庁・練馬警察署、特殊詐欺の被害防止呼びかけ" [ref=e1411]:
+                  - generic [ref=e1413]:
+                    - generic [ref=e1414]:
+                      - button "11 いいね!" [ref=e1415]:
+                        - generic [ref=e1419]: "11"
+                      - button "嫌い" [ref=e1420]
+                    - link "コメントの表示 1 コメント" [ref=e1425]:
+                      - /url: https://www.msn.com/ja-jp/news/other/%E8%AD%A6%E8%A6%96%E5%BA%81-%E7%B7%B4%E9%A6%AC%E8%AD%A6%E5%AF%9F%E7%BD%B2-%E7%89%B9%E6%AE%8A%E8%A9%90%E6%AC%BA%E3%81%AE%E8%A2%AB%E5%AE%B3%E9%98%B2%E6%AD%A2%E5%91%BC%E3%81%B3%E3%81%8B%E3%81%91/vi-AA2dWMZz#comments
+                      - button "コメントの表示 1 コメント" [ref=e1426]
+                      - generic [aria-hidden] [ref=e1429]: "1"
+            - article "【オールスター感謝祭】島崎和歌子「赤坂5丁目ミニマラソン」“マジ説教”経て…今回の出場者人数に涙" [ref=e1430] [cursor=pointer]:
+              - generic [ref=e1434]:
+                - generic [ref=e1435]:
+                  - generic [ref=e1436]:
+                    - generic [ref=e1437]: オリコンニュース
+                    - generic [aria-hidden] [ref=e1440]: ·
+                    - generic [ref=e1441]: 14 時間
+                  - link "【オールスター感謝祭】島崎和歌子「赤坂5丁目ミニマラソン」“マジ説教”経て…今回の出場者人数に涙, オリコンニュース" [ref=e1442]:
+                    - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E6%84%9F%E8%AC%9D%E7%A5%AD-%E5%B3%B6%E5%B4%8E%E5%92%8C%E6%AD%8C%E5%AD%90-%E8%B5%A4%E5%9D%825%E4%B8%81%E7%9B%AE%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3-%E3%83%9E%E3%82%B8%E8%AA%AC%E6%95%99-%E7%B5%8C%E3%81%A6-%E4%BB%8A%E5%9B%9E%E3%81%AE%E5%87%BA%E5%A0%B4%E8%80%85%E4%BA%BA%E6%95%B0%E3%81%AB%E6%B6%99/ar-AA2dXt9I
+                    - text: 【オールスター感謝祭】島崎和歌子「赤坂5丁目ミニマラソン」“マジ説教”経て…今回の出場者人数に涙
+                - generic "【オールスター感謝祭】島崎和歌子「赤坂5丁目ミニマラソン」“マジ説教”経て…今回の出場者人数に涙" [ref=e1445]:
+                  - generic [ref=e1447]:
+                    - generic [ref=e1448]:
+                      - button "6 いいね!" [ref=e1449]:
+                        - generic [ref=e1453]: "6"
+                      - button "嫌い" [ref=e1454]
+                    - link "コメントの表示 1 コメント" [ref=e1459]:
+                      - /url: https://www.msn.com/ja-jp/entertainment/celebrities/%E3%82%AA%E3%83%BC%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%BC%E6%84%9F%E8%AC%9D%E7%A5%AD-%E5%B3%B6%E5%B4%8E%E5%92%8C%E6%AD%8C%E5%AD%90-%E8%B5%A4%E5%9D%825%E4%B8%81%E7%9B%AE%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3-%E3%83%9E%E3%82%B8%E8%AA%AC%E6%95%99-%E7%B5%8C%E3%81%A6-%E4%BB%8A%E5%9B%9E%E3%81%AE%E5%87%BA%E5%A0%B4%E8%80%85%E4%BA%BA%E6%95%B0%E3%81%AB%E6%B6%99/ar-AA2dXt9I#comments
+                      - button "コメントの表示 1 コメント" [ref=e1460]
+                      - generic [aria-hidden] [ref=e1463]: "1"
+            - article "iPhoneは数カ月で3万円増…高騰するスマホ価格、年末までに「前年比2〜3割増」予想 世界的にセール求む消費者" [ref=e1464] [cursor=pointer]:
+              - generic [ref=e1468]:
+                - generic [ref=e1469]:
+                  - generic [ref=e1470]:
+                    - generic [ref=e1471]: オタク総研
+                    - generic [aria-hidden] [ref=e1474]: ·
+                    - generic [ref=e1475]: 22 時間
+                  - link "iPhoneは数カ月で3万円増…高騰するスマホ価格、年末までに「前年比2〜3割増」予想 世界的にセール求む消費者, オタク総研" [ref=e1476]:
+                    - /url: https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/iphone%E3%81%AF%E6%95%B0%E3%82%AB%E6%9C%88%E3%81%A73%E4%B8%87%E5%86%86%E5%A2%97-%E9%AB%98%E9%A8%B0%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%9B%E4%BE%A1%E6%A0%BC-%E5%B9%B4%E6%9C%AB%E3%81%BE%E3%81%A7%E3%81%AB-%E5%89%8D%E5%B9%B4%E6%AF%942-3%E5%89%B2%E5%A2%97-%E4%BA%88%E6%83%B3-%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AB%E3%82%BB%E3%83%BC%E3%83%AB%E6%B1%82%E3%82%80%E6%B6%88%E8%B2%BB%E8%80%85/ar-AA2dVA2u
+                    - text: iPhoneは数カ月で3万円増…高騰するスマホ価格、年末までに「前年比2〜3割増」予想 世界的にセール求む消費者
+                - generic "iPhoneは数カ月で3万円増…高騰するスマホ価格、年末までに「前年比2〜3割増」予想 世界的にセール求む消費者" [ref=e1479]:
+                  - generic [ref=e1481]:
+                    - generic [ref=e1482]:
+                      - button "9 いいね!" [ref=e1483]:
+                        - generic [ref=e1487]: "9"
+                      - button "嫌い" [ref=e1488]
+                    - link "あなたの意見は?" [ref=e1493]:
+                      - /url: https://www.msn.com/ja-jp/money/%E5%85%A8%E8%88%AC/iphone%E3%81%AF%E6%95%B0%E3%82%AB%E6%9C%88%E3%81%A73%E4%B8%87%E5%86%86%E5%A2%97-%E9%AB%98%E9%A8%B0%E3%81%99%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%9B%E4%BE%A1%E6%A0%BC-%E5%B9%B4%E6%9C%AB%E3%81%BE%E3%81%A7%E3%81%AB-%E5%89%8D%E5%B9%B4%E6%AF%942-3%E5%89%B2%E5%A2%97-%E4%BA%88%E6%83%B3-%E4%B8%96%E7%95%8C%E7%9A%84%E3%81%AB%E3%82%BB%E3%83%BC%E3%83%AB%E6%B1%82%E3%82%80%E6%B6%88%E8%B2%BB%E8%80%85/ar-AA2dVA2u#comments
+                      - button "あなたの意見は?" [ref=e1494]
+  - generic "ヘルプとフィードバック" [ref=e1500] [cursor=pointer]:
+    - button "ヘルプとフィードバック" [ref=e1501]
