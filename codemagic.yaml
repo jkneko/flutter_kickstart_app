@@ -10,7 +10,7 @@
       groups:
         - app_store_credentials # Codemagic縺ｫ逋ｻ骭ｲ縺励◆App Store Connect API繧ｭ繝ｼ遲峨・繧ｰ繝ｫ繝ｼ繝怜錐
       vars:
-        BUNDLE_ID: "pro.kanetech.flutter_kickstart_app"
+        BUNDLE_ID: "pro.kanetech.flutterkickstart"
     triggering:
       events:
         - push
@@ -56,7 +56,7 @@
       groups:
         - google_play_credentials # Codemagic縺ｫ逋ｻ骭ｲ縺励◆GCP繧ｵ繝ｼ繝薙せ繧｢繧ｫ繧ｦ繝ｳ繝育ｭ峨・繧ｰ繝ｫ繝ｼ繝怜錐
       vars:
-        PACKAGE_NAME: "pro.kanetech.flutter_kickstart_app"
+        PACKAGE_NAME: "pro.kanetech.flutterkickstart"
     triggering:
       events:
         - push
@@ -90,4 +90,5 @@
         credentials: $GCLOUD_SERVICE_ACCOUNT_CREDENTIALS
         track: internal
         submit_as_draft: false
+
 
