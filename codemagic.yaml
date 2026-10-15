@@ -30,9 +30,8 @@ workflows:
     scripts:
       - name: Set up code signing settings on Codemagic
         script: |
-          keychain initialize
-          keychain add-certificates
-          xcode-project use-profiles
+          xcode-project use-profiles --warn-only --code-signing-setup-verbose-logging
+          cat /Users/builder/export_options.plist || true
       - name: Get Flutter packages
         script: |
           flutter packages pub get
