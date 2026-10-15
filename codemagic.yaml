@@ -6,11 +6,15 @@ workflows:
     integrations:
       app_store_connect: Codemagic CI Key
     environment:
+      ios_signing:
+        provisioning_profiles:
+          - flutter_kickstart_production
+        certificates:
+          - Codemagic Distribution Certificate
+          - Kanetech Distribution Certificate
       flutter: default
       xcode: latest
       cocoapods: default
-      groups:
-        - app_store_credentials # Codemagic縺ｫ逋ｻ骭ｲ縺励◆App Store Connect API繧ｭ繝ｼ遲峨・繧ｰ繝ｫ繝ｼ繝怜錐
       vars:
         BUNDLE_ID: "pro.kanetech.flutterkickstart"
     triggering:
@@ -27,9 +31,6 @@ workflows:
       - name: Set up code signing settings on Codemagic
         script: |
           keychain initialize
-          app-store-connect fetch-signing-files "$BUNDLE_ID" \
-            --type IOS_APP_STORE \
-            --create
           keychain add-certificates
           xcode-project use-profiles
       - name: Get Flutter packages
