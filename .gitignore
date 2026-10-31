@@ -47,3 +47,5 @@ app.*.map.json
 *.js
 .playwright-cli/
 
+/android/build/
+.gradle/
