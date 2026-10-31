@@ -56,7 +56,7 @@ workflows:
     environment:
       flutter: default
       groups:
-        - google_play_credentials # Codemagic縺ｫ逋ｻ骭ｲ縺励◆GCP繧ｵ繝ｼ繝薙せ繧｢繧ｫ繧ｦ繝ｳ繝育ｭ峨・繧ｰ繝ｫ繝ｼ繝怜錐
+        - google_play_credentials # Codemagicに登録したGoogle Play認証情報の環境変数グループ名
       vars:
         PACKAGE_NAME: "pro.kanetech.flutterkickstart"
     triggering:
